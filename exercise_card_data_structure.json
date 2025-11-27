@@ -1,0 +1,248 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CoachWhitt Exercise Card Data Structure",
+  "description": "JSON schema for generating CoachWhitt branded exercise cards. Note: Some fields (scientificReference, sportsTags, difficulty, muscleGroup) are stored in database for trainer use but NOT displayed on client-facing cards.",
+  "type": "object",
+  "required": [
+    "exerciseId",
+    "exerciseName",
+    "primaryMuscles",
+    "movementType",
+    "equipment",
+    "instructionsBeginners",
+    "coachingPoints"
+  ],
+  "properties": {
+    "exerciseId": {
+      "type": "string",
+      "description": "Unique identifier for the exercise (kebab-case)",
+      "pattern": "^[a-z0-9-]+$",
+      "examples": ["barbell-bench-press", "dumbbell-lateral-raise"]
+    },
+    "exerciseName": {
+      "type": "string",
+      "description": "Full display name of the exercise",
+      "minLength": 3,
+      "maxLength": 80,
+      "examples": ["Barbell Bench Press", "Dumbbell Lateral Raise"]
+    },
+    "primaryMuscles": {
+      "type": "array",
+      "description": "Primary muscles worked during the exercise",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      },
+      "examples": [
+        ["Pectoralis Major", "Anterior Deltoid"]
+      ]
+    },
+    "secondaryMuscles": {
+      "type": "array",
+      "description": "Secondary muscles engaged during the exercise",
+      "items": {
+        "type": "string"
+      },
+      "examples": [
+        ["Triceps Brachii", "Serratus Anterior"]
+      ]
+    },
+    "movementType": {
+      "type": "string",
+      "description": "Classification of movement pattern",
+      "enum": ["Compound", "Isolation"]
+    },
+    "equipment": {
+      "type": "array",
+      "description": "Equipment required for the exercise",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      },
+      "examples": [
+        ["Barbell", "Flat Bench"],
+        ["Dumbbells"],
+        ["Bodyweight"]
+      ]
+    },
+    "instructionsBeginners": {
+      "type": "array",
+      "description": "Step-by-step instructions for beginners (ordered)",
+      "minItems": 3,
+      "maxItems": 8,
+      "items": {
+        "type": "string",
+        "minLength": 10,
+        "maxLength": 200
+      },
+      "examples": [
+        [
+          "Lie flat on bench with eyes directly under the bar",
+          "Grip the bar slightly wider than shoulder width",
+          "Unrack the bar and lower to mid-chest with control",
+          "Press the bar back to lockout position",
+          "Maintain 5-point contact throughout the movement"
+        ]
+      ]
+    },
+    "coachingPoints": {
+      "type": "array",
+      "description": "Advanced coaching cues for performance optimization",
+      "minItems": 3,
+      "maxItems": 7,
+      "items": {
+        "type": "string",
+        "minLength": 10,
+        "maxLength": 150
+      },
+      "examples": [
+        [
+          "Maintain scapular retraction throughout the entire movement",
+          "Initiate the press with leg drive for maximum power",
+          "Bar path should be slightly diagonal, not perfectly vertical",
+          "Control the eccentric phase for 2-3 seconds",
+          "Maintain proper wrist alignment to prevent injury"
+        ]
+      ]
+    },
+    "scientificReference": {
+      "type": "string",
+      "description": "[DATABASE ONLY - NOT ON CARDS] Peer-reviewed citation or research reference for trainer validation",
+      "minLength": 20,
+      "maxLength": 300,
+      "examples": [
+        "Lehman GJ (2005). The influence of grip width and forearm pronation/supination on upper-body myoelectric activity. J Strength Cond Res 19(3):587-591"
+      ]
+    },
+    "scientificReferenceDOI": {
+      "type": "string",
+      "description": "[DATABASE ONLY - NOT ON CARDS] Digital Object Identifier for the reference (optional)",
+      "pattern": "^10\\.\\d{4,}.*$",
+      "examples": ["10.1519/JSC.0b013e3181e840f3"]
+    },
+    "sportsTags": {
+      "type": "array",
+      "description": "[DATABASE ONLY - NOT ON CARDS] Sports or activities this exercise benefits - used for sport-specific program creation",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      },
+      "examples": [
+        ["Powerlifting", "Football", "Rugby", "Wrestling"]
+      ]
+    },
+    "muscleGroup": {
+      "type": "string",
+      "description": "[DATABASE ONLY - NOT ON CARDS] Primary muscle group category for database organization",
+      "enum": [
+        "Chest",
+        "Back",
+        "Shoulders",
+        "Biceps",
+        "Triceps",
+        "Quadriceps",
+        "Hamstrings",
+        "Glutes",
+        "Core",
+        "Calves",
+        "Forearms",
+        "Neck"
+      ]
+    },
+    "difficulty": {
+      "type": "string",
+      "description": "[DATABASE ONLY - NOT ON CARDS] Exercise difficulty level for program planning",
+      "enum": ["Beginner", "Intermediate", "Advanced"]
+    },
+    "anatomicalDiagrams": {
+      "type": "object",
+      "description": "Paths to anatomical diagram assets",
+      "properties": {
+        "maleFront": {
+          "type": "string",
+          "description": "Path to male front view diagram",
+          "examples": ["assets/diagrams/male/chest_front.svg"]
+        },
+        "maleRear": {
+          "type": "string",
+          "description": "Path to male rear view diagram",
+          "examples": ["assets/diagrams/male/chest_rear.svg"]
+        },
+        "femaleFront": {
+          "type": "string",
+          "description": "Path to female front view diagram",
+          "examples": ["assets/diagrams/female/chest_front.svg"]
+        },
+        "femaleRear": {
+          "type": "string",
+          "description": "Path to female rear view diagram",
+          "examples": ["assets/diagrams/female/chest_rear.svg"]
+        }
+      }
+    },
+    "exerciseIllustration": {
+      "type": "object",
+      "description": "Paths to exercise illustration images",
+      "properties": {
+        "male": {
+          "type": "string",
+          "description": "Path to male exercise illustration",
+          "examples": ["assets/illustrations/male/barbell_bench_press.svg"]
+        },
+        "female": {
+          "type": "string",
+          "description": "Path to female exercise illustration",
+          "examples": ["assets/illustrations/female/barbell_bench_press.svg"]
+        }
+      }
+    },
+    "videoAssets": {
+      "type": "object",
+      "description": "Paths to instructional video files (optional)",
+      "properties": {
+        "male": {
+          "type": "string",
+          "description": "Path to male demonstration video",
+          "examples": ["assets/videos/male/barbell_bench_press.mp4"]
+        },
+        "female": {
+          "type": "string",
+          "description": "Path to female demonstration video",
+          "examples": ["assets/videos/female/barbell_bench_press.mp4"]
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional metadata for exercise management",
+      "properties": {
+        "dateCreated": {
+          "type": "string",
+          "format": "date",
+          "description": "Date the card was created (ISO 8601)"
+        },
+        "lastUpdated": {
+          "type": "string",
+          "format": "date",
+          "description": "Date the card was last updated (ISO 8601)"
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+(\\.\\d+)?$",
+          "description": "Version number of the card",
+          "examples": ["1.0", "1.2.1"]
+        },
+        "author": {
+          "type": "string",
+          "description": "Creator/validator of the exercise card",
+          "examples": ["Dean Whittingslow", "CoachWhitt"]
+        },
+        "status": {
+          "type": "string",
+          "enum": ["draft", "review", "approved", "published"],
+          "description": "Publication status of the card"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "exerciseId": "barbell-bench-press",
+  "exerciseName": "Barbell Bench Press",
+  "primaryMuscles": [
+    "Pectoralis Major (sternal)",
+    "Pectoralis Major (clavicular)"
+  ],
+  "secondaryMuscles": [
+    "Anterior Deltoid",
+    "Triceps Brachii"
+  ],
+  "movementType": "Compound",
+  "equipment": [
+    "Barbell",
+    "Flat Bench"
+  ],
+  "instructionsBeginners": [
+    "Lie flat on bench with eyes directly under the bar",
+    "Grip the bar slightly wider than shoulder width with palms facing forward",
+    "Unrack the bar with straight arms and position it over your mid-chest",
+    "Lower the bar with control to your mid-chest, keeping elbows at 45-degree angle",
+    "Press the bar back up to the starting position until arms are fully extended",
+    "Maintain 5-point contact (head, shoulders, glutes on bench; feet flat on floor) throughout"
+  ],
+  "coachingPoints": [
+    "Maintain scapular retraction (shoulder blades squeezed together) throughout the entire movement",
+    "Initiate the press with leg drive through the floor for maximum power transfer",
+    "Bar path should be slightly diagonal toward your face, not perfectly vertical",
+    "Control the eccentric (lowering) phase for 2-3 seconds to maximize muscle tension",
+    "Keep wrists stacked directly over elbows to prevent wrist strain and maintain optimal force transfer"
+  ],
+  "scientificReference": "Lehman GJ (2005). The influence of grip width and forearm pronation/supination on upper-body myoelectric activity during the flat bench press. J Strength Cond Res 19(3):587-591",
+  "scientificReferenceDOI": "10.1519/R-15024.1",
+  "sportsTags": [
+    "Powerlifting",
+    "Football",
+    "Rugby",
+    "Wrestling",
+    "Basketball"
+  ],
+  "muscleGroup": "Chest",
+  "difficulty": "Intermediate",
+  "anatomicalDiagrams": {
+    "maleFront": "assets/diagrams/male/chest_front_bench_press.svg",
+    "maleRear": "assets/diagrams/male/chest_rear_bench_press.svg",
+    "femaleFront": "assets/diagrams/female/chest_front_bench_press.svg",
+    "femaleRear": "assets/diagrams/female/chest_rear_bench_press.svg"
+  },
+  "exerciseIllustration": {
+    "male": "assets/illustrations/male/barbell_bench_press.svg",
+    "female": "assets/illustrations/female/barbell_bench_press.svg"
+  },
+  "videoAssets": {
+    "male": "assets/videos/male/barbell_bench_press.mp4",
+    "female": "assets/videos/female/barbell_bench_press.mp4"
+  },
+  "metadata": {
+    "dateCreated": "2024-11-11",
+    "lastUpdated": "2024-11-11",
+    "version": "1.0",
+    "author": "CoachWhitt",
+    "status": "approved"
+  }
+}
