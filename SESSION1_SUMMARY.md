@@ -28,7 +28,65 @@
 4. **Video Link Research**
    - ExRx: ✅ Provides direct exercise URLs (100% success rate)
    - JEFIT: ✅ Provides direct exercise URLs (100% success rate)
-   - FitSW: ❌ Does NOT provide direct exercise URLs (uses internal filtering system)
+   - FitSW: ❌ Removed (animated GIFs return "access denied" errors)
+
+---
+
+## Session 1 Corrections (Post-Review)
+
+### Issues Identified by User
+
+1. **Redundant "Joint" Column**
+   - Issue: "Type" column (Compound/Isolation) and "Joint" column (M/S) contain same information
+   - Resolution: Removed "Joint" column entirely from structure
+   - Column count reduced: 17 → 16 columns
+
+2. **Modality Abbreviations**
+   - Issue: Used abbreviations (FW, C, M, BW) instead of full text
+   - Resolution: Expanded all abbreviations:
+     - FW → Free Weight
+     - C → Cables
+     - M → Fixed Resistance
+     - BW → Bodyweight
+
+3. **FitSW Video Links**
+   - Initial attempt: Added animated GIF URLs for all 10 exercises
+   - Issue discovered: FitSW GIFs return "access denied" errors when accessed in browser
+   - Final resolution: Removed FitSW Video column entirely
+   - Column count reduced: 16 → 15 columns
+
+### Corrected Files
+
+✅ **comprehensive_exercise_database_v2.md**
+- Removed "Joint" column from header and all 10 exercises
+- Expanded Modality values to full text
+- Removed FitSW Video column (access denied errors)
+- Final structure: 15 columns
+
+✅ **exercise_database_session1.csv**
+- Recreated with corrected 15-column structure
+- All Modality values expanded
+- No FitSW Video column
+- Ready for Google Sheets import
+
+### Final Column Structure (15 Columns)
+
+1. Exercise
+2. Primary Muscles
+3. Secondary Muscles
+4. Type (Compound/Isolation)
+5. Equipment
+6. Level (Beginner/Intermediate/Advanced)
+7. Body Region (Upper/Lower/Core)
+8. Movement (Push/Pull/Static)
+9. Modality (Free Weight/Cables/Fixed Resistance/Bodyweight)
+10. Steps for Beginners
+11. Advanced Key Points
+12. Scientific Reference
+13. Sports Tags
+14. ExRx Video
+15. JEFIT Video
+16. CoachWhitt Video ([TBD])
 
 ---
 
