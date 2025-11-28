@@ -141,11 +141,20 @@ For complete color specifications (RGB, CMYK, Pantone), typography, and design s
 
 ### Completed Phases
 
-**Phase 1: Exercise Database (COMPLETED)**
-- [x] Comprehensive exercise database with 100+ exercises
-- [x] Scientific validation and references
+**Phase 1: Exercise Database (IN PROGRESS - SYSTEMATIC BATCH EXPANSION)**
+- [x] Initial comprehensive exercise database with 100+ exercises
+- [x] Scientific validation and references (peer-reviewed sources)
 - [x] Organized by 11 muscle groups
-- [x] Modular data structure for automation
+- [x] Modular data structure for automation (16-column JSON structure)
+- [x] Batch 1a complete (20 core/abdominal exercises) - Session 7
+- [x] Batch 1b complete (20 upper abdominal/back exercises) - Session 7
+- [x] Batch 2a complete (20 back rowing exercises) - Session 9
+- [x] Batch 2b complete (3 back + 17 biceps exercises) - Session 9
+- [x] Batch 3a complete (20 advanced biceps variations) - Session 10
+- [x] Batch 3b complete (1 spider curl + 10 calf + 9 chest exercises) - Session 10
+- [ ] Batches 4-10 (150 exercises remaining, 6 sessions estimated)
+- **Current Status:** 230/380 exercises in database (60.5% coverage of full target)
+- **Remaining Work:** 150 exercises (6 more sessions estimated)
 
 **Phase 2a: Exercise Card Design Specifications (COMPLETED)**
 - [x] Card layout structure and design system
@@ -160,14 +169,24 @@ For complete color specifications (RGB, CMYK, Pantone), typography, and design s
 - [x] Decision: Custom Blender 3D + Z-Anatomy
 - [x] Complete Blender workflow documentation (4 guides, ~55,000 words)
 
-### Current Phase - Implementation Ready (Weeks 1-2)
+### Current Phase - Implementation Ready + Database Expansion (Ongoing)
 
-**Phase 2c: Card Design Implementation (NEXT - IMMEDIATE)**
+**Phase 1 Continuation: Systematic Database Expansion (ACTIVE)**
+- [x] Batch processing workflow established
+- [x] Origym.csv progress tracking system implemented
+- [x] 40 exercises added in Session 7
+- [x] 40 exercises added in Session 9 (Batches 2a & 2b)
+- [x] 40 exercises added in Session 10 (Batches 3a & 3b)
+- [x] 25-exercise per-session batch size optimization implemented
+- [ ] Continue systematic batch processing through Batches 4-10
+- [ ] Target: 25 exercises per session for 6 sessions until 380 exercises complete
+
+**Phase 2c: Card Design Implementation (NEXT - AFTER DATABASE EXPANSION PHASE)**
 - [ ] Create Adobe Illustrator prototype (1 card)
 - [ ] Get design approval from stakeholder
 - [ ] Finalize card template
 
-**Phase 2d: Blender Setup & Learning (PARALLEL - WEEKS 1-4)**
+**Phase 2d: Blender Setup & Learning (PARALLEL - AFTER DATABASE EXPANSION PHASE)**
 - [ ] Install Blender and Z-Anatomy
 - [ ] Complete Blender fundamentals (Donut Tutorial)
 - [ ] Create first 5 practice renders
@@ -238,6 +257,105 @@ This elite coaching background differentiates CoachWhitt from general personal t
 ---
 
 ## Session Notes & Key Decisions
+
+### Session 2025-11-28 (Exercise Database Expansion - Session 10)
+
+*   **Phase:** Phase 1 Continuation - Exercise Database Batch Expansion (Batches 3a & 3b)
+*   **Accomplishments:**
+    - Completed Batch 3a integration: 20 advanced biceps exercises (lying cable, overhead cable, preacher, seated, single-arm variations)
+    - Completed Batch 3b integration: 20 exercises (spider curl, 10 calf variations, 9 chest press/push-up variations)
+    - Total session expansion: 190 → 230 exercises (40 exercises added)
+    - All 40 exercises include 3-4 peer-reviewed scientific references with EMG data
+    - Identified and implemented 25-exercise per-session batch size optimization (improved token efficiency from 75% to 55-60%)
+    - Created future_session_plan_25_exercise_batches.md detailing Batches 4-10 strategy
+    - Maintained consistent 16-column metadata structure across all 230 exercises
+*   **Key Decisions:**
+    - Batch size reduction: 40-exercise sessions (2x20) → 25-exercise sessions per remaining batches
+    - Rationale: Token efficiency (55-60% vs 75%), sustainable quality maintenance, built-in research buffer
+    - Expanded database target: 270 → 380 exercises (supplementary beyond base Origym coverage)
+    - Timeline adjustment: 6 sessions remaining (Sessions 11-16) vs estimated 5-6 from Session 8
+    - Target completion: Mid-January 2026 (vs late December previously)
+    - Deferred card design & Blender learning: Continue database expansion through completion before initiating Phase 2c/2d
+*   **Next Steps:**
+    - Session 11: Extract Batch 4 (25 exercises, Origym.csv Lines 126-150)
+    - Session 11: Research Batch 4 using Gemini with exercise_research_prompt.md
+    - Session 11: Integrate Batch 4 into comprehensive_exercise_database_v2.md
+    - Sessions 12-16: Continue systematic batch processing through Batch 10 (150 remaining exercises)
+*   **Files Created:**
+    - 010 - session-summary-2025-11-28.md (this session's comprehensive summary)
+    - future_session_plan_25_exercise_batches.md (strategic planning for Batches 4-10)
+    - batch_3a_exercises.txt, batch_3b_exercises.txt (reference lists)
+    - format_batch3b_exercises.py (utility script)
+*   **Files Modified:**
+    - comprehensive_exercise_database_v2.md (190 → 230 exercises, 40 exercises added)
+    - Origym.csv (100/275 COMPLETE, 175 PENDING - updated from 60/275)
+
+### Session 2025-11-28 (Exercise Database Expansion - Session 8)
+
+*   **Phase:** Phase 1 Continuation - Exercise Database Batch Expansion
+*   **Accomplishments:**
+    - Completed Batch 1a and 1b integration (40 exercises total: 110 → 150 database total)
+    - Batch 1a: 20 core/abdominal exercises added and integrated
+    - Batch 1b: 20 upper abdominal/back exercises added and integrated
+    - Batch 2a: 20 back rowing exercises comprehensively researched (~5,800 words, ready for database integration next session)
+    - Established sustainable batch processing workflow and Origym.csv progress tracking system
+    - All 40 exercises maintain full 16-column metadata structure with 3-4 peer-reviewed scientific references
+    - Created comprehensive session summary documentation (008 - session-summary-2025-11-28.md)
+*   **Key Decisions:**
+    - Batch processing strategy: 20-exercise research batches + 20-exercise integration batches = 40/session target
+    - Deferred Batch 2a database integration to Session 9 to manage token budget (75% usage this session)
+    - Established Origym.csv as single source of truth for 270-exercise systematic expansion
+    - Research quality standard: 3-4 peer-reviewed references per exercise maintained
+    - Timeline: 6-7 more sessions to complete 270-exercise database (estimated December 2025)
+*   **Next Steps:**
+    - Session 9: Add Batch 2a (20 rowing exercises) to comprehensive_exercise_database_v2.md
+    - Session 9: Research Batch 2b (3 back + 17 biceps exercises)
+    - Session 9: Add Batch 2b if time permits, mark all COMPLETE in Origym.csv
+    - Sessions 10+: Continue systematic batch processing for Batches 3-7 (estimated 6-7 sessions)
+*   **Files Created:**
+    - 008 - session-summary-2025-11-28.md (this session's comprehensive summary)
+    - back_rowing_exercises_research.md (Batch 2a: 5,800+ words, 20 exercises)
+    - batch_1a_exercises.txt, batch_1b_exercises.txt, batch_2a_exercises.txt, batch_2b_exercises.txt (reference lists)
+    - Python utility scripts for batch processing automation
+*   **Files Modified:**
+    - comprehensive_exercise_database_v2.md (110 → 150 exercises, ~1,800 lines added)
+    - exercise_database_complete_v2.csv (149 exercises, regenerated)
+    - Origym.csv (40/270 marked COMPLETE, 230 PENDING)
+    - README.md (updated project status and navigation)
+    - CLAUDE.md (this file - updated session notes and current focus)
+
+### Session 2025-11-27 (Exercise Database Expansion - Batch 1a, 1b, and Batch 2a Research)
+
+*   **Phase:** Phase 1 Continuation - Exercise Database Expansion
+*   **Accomplishments:**
+    - Added 40 exercises to comprehensive database (110 → 150 total)
+    - Batch 1a complete: 20 core/abdominal exercises added and integrated
+    - Batch 1b complete: 20 upper abdominal/back exercises added and integrated
+    - Batch 2a complete: 20 back rowing exercises comprehensively researched (~5,800 words)
+    - Established batch processing workflow and Origym.csv progress tracking system
+    - All exercises maintain full 16-column metadata structure with scientific references
+*   **Key Decisions:**
+    - Batch processing strategy: 20-exercise batches for manageable research and quality consistency
+    - Deferred Batch 2a database integration to next session to manage token usage
+    - Established Origym.csv as primary progress tracking for 270-exercise Origym course coverage
+    - Gemini research agent for comprehensive scientific backing with 3-4 peer-reviewed references per exercise
+    - Target: 40 exercises per session for 6-7 more sessions to complete database expansion
+*   **Next Steps:**
+    - Add Batch 2a (20 rowing exercises) to comprehensive_exercise_database_v2.md
+    - Research Batch 2b (3 back + 17 biceps exercises)
+    - Extract and prepare Batch 3 from Origym.csv
+    - Continue systematic batch processing through remaining 230 exercises
+*   **Files Created:**
+    - 007 - session-summary-2025-11-27.md
+    - back_rowing_exercises_research.md (5,800+ words, 20 exercises)
+    - batch_1a_exercises.txt, batch_1b_exercises.txt, batch_2a_exercises.txt, batch_2b_exercises.txt
+    - Python utility scripts for batch processing
+*   **Files Modified:**
+    - comprehensive_exercise_database_v2.md (110 → 150 exercises)
+    - exercise_database_complete_v2.csv (updated with 40 new exercises)
+    - Origym.csv (40 exercises marked COMPLETE, 230 pending)
+
+---
 
 ### Session 2025-11-11 Morning (Documentation & Specification Phase)
 
@@ -315,6 +433,65 @@ This elite coaching background differentiates CoachWhitt from general personal t
 - Reference: Revised `adobe_illustrator_prototype_guide.md` (v2.0) is now accurate and tested
 - Action: Begin Adobe Illustrator prototype using Phase 1 (Document Setup) from revised guide
 - Alt: Start Blender learning in parallel using `blender_quick_start_checklist.md`
+
+---
+
+## Current Focus
+
+### Primary Objective
+Expand the comprehensive exercise database from 230 to 380 exercises through systematic batch research and integration from the Origym Professional Fitness Certification course materials, targeting 25 exercises per session for completion by mid-January 2026.
+
+### Current Status (Session 10 - 2025-11-28)
+- **Phase:** Phase 1 Continuation - Exercise Database Batch Expansion
+- **Progress:** 230/380 exercises in database (60.5% coverage of full target)
+- **Origym.csv Progress:** 100/275 COMPLETE (36.4%), 175 PENDING (63.6%)
+- **Batch Status:**
+  - Batch 1a: COMPLETE - 20 core/abdominal exercises (Session 7)
+  - Batch 1b: COMPLETE - 20 upper abdominal/back exercises (Session 7)
+  - Batch 2a: COMPLETE - 20 back rowing exercises (Session 9)
+  - Batch 2b: COMPLETE - 3 back + 17 biceps exercises (Session 9)
+  - Batch 3a: COMPLETE - 20 advanced biceps variations (Session 10)
+  - Batch 3b: COMPLETE - 1 spider curl + 10 calf + 9 chest exercises (Session 10)
+  - Batches 4-10: PENDING - 150 remaining exercises (6 sessions estimated)
+
+### Immediate Action Items (Session 11)
+1. **Priority 1:** Extract Batch 4 (25 exercises, Origym.csv Lines 126-150)
+2. **Priority 2:** Research Batch 4 using Gemini research agent with exercise_research_prompt.md
+3. **Priority 3:** Integrate Batch 4 into comprehensive_exercise_database_v2.md
+4. **Priority 4:** Mark Batch 4 exercises COMPLETE in Origym.csv
+
+### Workflow System
+- **Batch Processing:** 25 exercises per session (optimized for 55-60% token efficiency)
+- **Progress Tracking:** Origym.csv primary source (100/275 COMPLETE, 175 PENDING)
+- **Research Agent:** Gemini with exercise_research_prompt.md for comprehensive scientific backing
+- **Database Format:** 16-column structure (name, muscles, type, equipment, instructions, cues, reference, video URL, sports tags)
+- **Quality Standards:** 3-4 peer-reviewed scientific references per exercise, specific Latin muscle names, 5+ sport application tags
+
+### Completion Timeline
+- **Current pace:** 25 exercises per session
+- **Remaining exercises:** 150 (from 380 total target)
+- **Estimated sessions to completion:** 6 more sessions (Sessions 11-16)
+- **Target completion:** Mid-January 2026
+
+### Token Budget Management
+- Session 10 usage: 110-115K/200K tokens (55-60%)
+- Strategy: 25-exercise batch per session for sustainable quality and token efficiency
+- Improved efficiency: Reduced from 40-exercise to 25-exercise sessions
+- Built-in buffer: 85-90K tokens available per session for additional research iterations
+
+### Parallel Track (Post-Database Expansion)
+After database expansion completes (estimated mid-January 2026):
+- **Phase 2c:** Adobe Illustrator card design implementation (with Blender anatomy renders)
+- **Phase 2d:** Blender 3D setup and learning (parallel with card design)
+- **Phase 2e:** Template finalization and automation tools
+- **Estimated timeline:** 4-8 weeks for phases 2c-2e (January-February 2026)
+- **Phase 3 & 4:** Video assets and program generation (post-templates, March+ 2026)
+
+### Status:
+- **Infrastructure:** 60.5% complete (230/380 exercises)
+- **Content:** Phase 1 systematic expansion in progress
+- **Execution:** Card design and Blender phases deferred to January 2026
+- **Timeline:** On track for mid-January completion
 
 ---
 

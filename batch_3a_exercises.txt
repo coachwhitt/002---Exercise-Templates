@@ -1,0 +1,20 @@
+Biceps,Lying Double Biceps Cable Curl,Intermediate,Upper,Pull,C,S,PENDING
+Biceps,Lying High Cable Curl,Advanced,Upper,Pull,C,S,PENDING
+Biceps,Machine Curl,Beginner,Upper,Pull,M,S,PENDING
+Biceps,Overhead Double Biceps Cable Curl,Advanced,Upper,Pull,C,S,PENDING
+Biceps,Overhead Rope Cable Curl,Advanced,Upper,Pull,C,S,PENDING
+Biceps,Preacher Barbell Curl,Advanced,Upper,Pull,FW,S,PENDING
+Biceps,Preacher Cable Curl,Advanced,Upper,Pull,C,S,PENDING
+Biceps,Preacher Dumbbell Curl,Intermediate,Upper,Pull,FW,S,PENDING
+Biceps,Preacher EZ-Bar Curl,Advanced,Upper,Pull,FW,S,PENDING
+Biceps,Preacher Hammer Dumbbell Curl,Intermediate,Upper,Pull,FW,S,PENDING
+Biceps,Preacher Single-Arm Dumbbell Curl,Intermediate,Upper,Pull,FW,S,PENDING
+Biceps,Reverse Curl,Advanced,Upper,Pull,FW,S,PENDING
+Biceps,Rope Cable Curl,Intermediate,Upper,Pull,C,S,PENDING
+Biceps,Seated Alternating Curl,Beginner,Upper,Pull,FW,S,PENDING
+Biceps,Seated Alternating Hammer Curl,Beginner,Upper,Pull,FW,S,PENDING
+Biceps,Seated Dumbbell Curl,Beginner,Upper,Pull,FW,S,PENDING
+Biceps,Seated Hammer Curl,Beginner,Upper,Pull,FW,S,PENDING
+Biceps,Single-Arm Barbell Curl,Beginner,Upper,Pull,FW,S,PENDING
+Biceps,Single-Arm Cable Curl,Intermediate,Upper,Pull,FW,S,PENDING
+Biceps,Single-Arm Dumbbell Curl w/ Incline Bench,Beginner,Upper,Pull,FW,S,PENDING

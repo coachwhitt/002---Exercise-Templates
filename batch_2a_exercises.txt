@@ -1,0 +1,20 @@
+1. Pull-Up|Back - Latissimus Dorsi|Beginner|FW|M|Upper|Pull
+2. Reverse-Grip Lat Pullown|Back - Latissimus Dorsi|Intermediate|C|M|Upper|Pull
+3. Reverse-Grip Pull-Up|Back - Latissimus Dorsi|Advanced|FW|M|Upper|Pull
+4. V-Bar Pull-Up|Back - Latissimus Dorsi|Advanced|FW|M|Upper|Pull
+5. Wide-Grip Lat Pulldown|Back - Latissimus Dorsi|Beginner|C|M|Upper|Pull
+6. Bent-Over Alternating Dumbbell Row|Back - Lat.Dorsi/Rhomboids|Intermediate|FW|M|Upper|Pull
+7. Bent-Over Barbell Row|Back - Lat.Dorsi/Rhomboids|Beginner|FW|M|Upper|Pull
+8. Bent-Over Dumbbell Row|Back - Lat.Dorsi/Rhomboids|Beginner|FW|M|Upper|Pull
+9. Bent-Over Hammer Dumbbell Row|Back - Lat.Dorsi/Rhomboids|Beginner|FW|M|Upper|Pull
+10. Bent-Over Long Barbell Row|Back - Lat.Dorsi/Rhomboids|Intermediate|FW|M|Upper|Pull
+11. Bent-Over Reverse-Grip Barbell Row|Back - Lat.Dorsi/Rhomboids|Advanced|FW|M|Upper|Pull
+12. Bent-Over Single-Arm Long Barbell Row|Back - Lat.Dorsi/Rhomboids|Advanced|FW|M|Upper|Pull
+13. Machine Row|Back - Lat.Dorsi/Rhomboids|Beginner|M|M|Upper|Pull
+14. One Arm Dumbbell Row|Back - Lat.Dorsi/Rhomboids|Beginner|FW|M|Upper|Pull
+15. Reverse Incline Dumbbell Row|Back - Lat.Dorsi/Rhomboids|Advanced|FW|M|Upper|Pull
+16. Rope Cable Row|Back - Lat.Dorsi/Rhomboids|Intermediate|C|M|Upper|Pull
+17. Seated Cable Row|Back - Lat.Dorsi/Rhomboids|Beginner|C|M|Upper|Pull
+18. Seated Row|Back - Lat.Dorsi/Rhomboids|Beginner|C|M|Upper|Pull
+19. Single-Arm Cable Row|Back - Lat.Dorsi/Rhomboids|Intermediate|C|M|Upper|Pull
+20. Single-Arm Dumbbell Row|Back - Lat.Dorsi/Rhomboids|Beginner|FW|M|Upper|Pull

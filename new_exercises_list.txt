@@ -1,0 +1,256 @@
+1. [Abdominals - Lower] Full Reverse Crunch (Advanced) - FW/M
+2. [Abdominals - Lower] Incline Hip Thrust (Advanced) - FW/M
+3. [Abdominals - Lower] Incline Reverse Crunch (Advanced) - FW/M
+4. [Abdominals - Lower] Lying Hip Thrust (Advanced) - FW/M
+5. [Abdominals - Lower] Reverse Crunch (Beginner) - FW/M
+6. [Abdominals - Lower] Reverse Medicine Ball Crunch (Advanced) - FW/M
+7. [Abdominals - Obliques] Alternating Heel Touch (Beginner) - FW/M
+8. [Abdominals - Obliques] Bent-Knee Medicine Ball Hip Rotation (Advanced) - FW/M
+9. [Abdominals - Obliques] Cable Chop (Advanced) - C/M
+10. [Abdominals - Obliques] Cross Crunch (Beginner) - FW/M
+11. [Abdominals - Obliques] Cross Crunch w/ Medicine Ball (Advanced) - FW/M
+12. [Abdominals - Obliques] Decline Cross Sit-Up (Advanced) - FW/M
+13. [Abdominals - Obliques] Decline Sit-Up w/ Twist (Advanced) - FW/M
+14. [Abdominals - Obliques] Reverse Cable Chop (Advanced) - C/M
+15. [Abdominals - Obliques] Seated Medicine Ball Twist (Advanced) - FW/M
+16. [Abdominals - Obliques] Trunk Rotator (Advanced) - FW/M
+17. [Abdominals - Total] Front Plank (from knees) (Beginner) - FW/M
+18. [Abdominals - Total] Front Plank (from toes) (Intermediate) - FW/M
+19. [Abdominals - Total] Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm) (Advanced) - FW/M
+20. [Abdominals - Total] Side-Plank (from knees) (Intermediate) - FW/M
+21. [Abdominals - Total] Side-Plank (hip lift) (Beginner) - FW/M
+22. [Abdominals - Total] Side-Plank (from toes) (Advanced) - FW/M
+23. [Abdominals - Total] Ab Cycle (Advanced) - FW/M
+24. [Abdominals - Total] Kneeling Ab Rollout (Intermediate) - FW/M
+25. [Abdominals - Total] Medicine Ball V-Up (Advanced) - FW/M
+26. [Abdominals - Total] V-Up (Beginner) - FW/M
+27. [Abdominals - Total] Weighted V-Up (Intermediate) - FW/M
+28. [Abdominals - Upper] Bent Knee Sit-Up (Beginner) - FW/M
+29. [Abdominals - Upper] Bent-Knee Crunch (Beginner) - FW/M
+30. [Abdominals - Upper] Crunch (Beginner) - FW/M
+31. [Abdominals - Upper] Crunch (Beginner) - FW/M
+32. [Abdominals - Upper] Decline Crunch (Advanced) - FW/M
+33. [Abdominals - Upper] Decline Sit-Up (Advanced) - FW/M
+34. [Abdominals - Upper] Heel Touch (Beginner) - FW/M
+35. [Abdominals - Upper] Sit-Up (Beginner) - FW/M
+36. [Abdominals - Upper] Weighted Crunch (Intermediate) - FW/M
+37. [Back - Latissimus Dorsi] Assisted Pull-Up (Beginner) - FW/M
+38. [Back - Latissimus Dorsi] Close-Grip Lat Pulldown (Beginner) - M/M
+39. [Back - Latissimus Dorsi] Inverted Pull-Up (Advanced) - FW/M
+40. [Back - Latissimus Dorsi] Lat Pulldown (Beginner) - C/M
+41. [Back - Latissimus Dorsi] Pull-Up (Beginner) - FW/M
+42. [Back - Latissimus Dorsi] Reverse-Grip Lat Pullown (Intermediate) - C/M
+43. [Back - Latissimus Dorsi] Reverse-Grip Pull-Up (Advanced) - FW/M
+44. [Back - Latissimus Dorsi] V-Bar Pull-Up (Advanced) - FW/M
+45. [Back - Latissimus Dorsi] Wide-Grip Lat Pulldown (Beginner) - C/M
+46. [Back - Lat.Dorsi/Rhomboids] Bent-Over Alternating Dumbbell Row (Intermediate) - FW/M
+47. [Back - Lat.Dorsi/Rhomboids] Bent-Over Barbell Row (Beginner) - FW/M
+48. [Back - Lat.Dorsi/Rhomboids] Bent-Over Dumbbell Row (Beginner) - FW/M
+49. [Back - Lat.Dorsi/Rhomboids] Bent-Over Hammer Dumbbell Row (Beginner) - FW/M
+50. [Back - Lat.Dorsi/Rhomboids] Bent-Over Long Barbell Row (Intermediate) - FW/M
+51. [Back - Lat.Dorsi/Rhomboids] Bent-Over Reverse-Grip Barbell Row (Advanced) - FW/M
+52. [Back - Lat.Dorsi/Rhomboids] Bent-Over Single-Arm Long Barbell Row (Advanced) - FW/M
+53. [Back - Lat.Dorsi/Rhomboids] Machine Row (Beginner) - M/M
+54. [Back - Lat.Dorsi/Rhomboids] One Arm Dumbbell Row (Beginner) - FW/M
+55. [Back - Lat.Dorsi/Rhomboids] Reverse Incline Dumbbell Row (Advanced) - FW/M
+56. [Back - Lat.Dorsi/Rhomboids] Rope Cable Row (Intermediate) - C/M
+57. [Back - Lat.Dorsi/Rhomboids] Seated Row (Beginner) - C/M
+58. [Back - Lat.Dorsi/Rhomboids] Single-Arm Cable Row (Intermediate) - C/M
+59. [Back - Lat.Dorsi/Rhomboids] Single-Arm Lat Pulldown (Intermediate) - C/M
+60. [Back - Lat.Dorsi/Rhomboids] Standing Cable Row (Beginner) - C/M
+61. [Back - Lat.Dorsi/Rhomboids] Standing Single-Arm Cable Row (Intermediate) - C/M
+62. [Biceps] Alternating Dumbbell Curl (Beginner) - FW/S
+63. [Biceps] Alternating Hammer Curl (Beginner) - FW/S
+64. [Biceps] Barbell Curl (Beginner) - FW/S
+65. [Biceps] Bicep Curl (Beginner) - FW/S
+66. [Biceps] Bottom/Top/Full Curls (Advanced) - FW/S
+67. [Biceps] Cable Curl (Intermediate) - C/S
+68. [Biceps] Concentration Dumbbell Curl (Intermediate) - FW/S
+69. [Biceps] Cross Body Hammer Curl (Advanced) - FW/S
+70. [Biceps] Dumbbell Curl (Beginner) - FW/S
+71. [Biceps] EZ-Bar Curl (Intermediate) - FW/S
+72. [Biceps] Hammer Curl (Beginner) - FW/S
+73. [Biceps] Incline Alternating Dumbbell Curl (Advanced) - FW/S
+74. [Biceps] Incline Alternating Hammer Curl (Advanced) - FW/S
+75. [Biceps] Incline Hammer Curl (Advanced) - FW/S
+76. [Biceps] Kneeling Cable Curl (Beginner) - C/S
+77. [Biceps] Lying Cable Curl (Intermediate) - C/S
+78. [Biceps] Lying Double Biceps Cable Curl (Intermediate) - C/S
+79. [Biceps] Lying High Cable Curl (Advanced) - C/S
+80. [Biceps] Machine Curl (Beginner) - M/S
+81. [Biceps] Overhead Double Biceps Cable Curl (Advanced) - C/S
+82. [Biceps] Overhead Rope Cable Curl (Advanced) - C/S
+83. [Biceps] Preacher Barbell Curl (Advanced) - FW/S
+84. [Biceps] Preacher Cable Curl (Advanced) - C/S
+85. [Biceps] Preacher Dumbbell Curl (Intermediate) - FW/S
+86. [Biceps] Preacher EZ-Bar Curl (Advanced) - FW/S
+87. [Biceps] Preacher Hammer Dumbbell Curl (Intermediate) - FW/S
+88. [Biceps] Preacher Single-Arm Dumbbell Curl (Intermediate) - FW/S
+89. [Biceps] Reverse Curl (Advanced) - FW/S
+90. [Biceps] Rope Cable Curl (Intermediate) - C/S
+91. [Biceps] Seated Alternating Curl (Beginner) - FW/S
+92. [Biceps] Seated Alternating Hammer Curl (Beginner) - FW/S
+93. [Biceps] Seated Dumbbell Curl (Beginner) - FW/S
+94. [Biceps] Seated Hammer Curl (Beginner) - FW/S
+95. [Biceps] Single-Arm Barbell Curl (Beginner) - FW/S
+96. [Biceps] Single-Arm Cable Curl (Intermediate) - FW/S
+97. [Biceps] Single-Arm Dumbbell Curl w/ Incline Bench (Beginner) - FW/S
+98. [Calves - Gastrocnemius] Barbell Calf Raise (Advanced) - FW/S
+99. [Calves - Gastrocnemius] Calf Press (Beginner) - M/S
+100. [Calves - Gastrocnemius] Calf Raise - Seated (Beginner) - FW/S
+101. [Calves - Gastrocnemius] Calf Raise - Standing (Beginner) - FW/S
+102. [Calves - Gastrocnemius] Dumbbell Calf Raise (Beginner) - FW/S
+103. [Calves - Gastrocnemius] Single-Leg Calf Press (Advanced) - M/S
+104. [Calves - Gastrocnemius] Single-Leg Dumbbell Calf Raise (Advanced) - FW/S
+105. [Calves - Gastrocnemius] Smith Machine Calf Raise (Intermediate) - M/S
+106. [Calves - Soleus] Seated Calf Raise (Beginner) - M/S
+107. [Calves - Soleus] Seated Single-Leg Calf Raise (Intermediate) - M/S
+108. [Chest - Pectoralis] Alternating Dumbbell Bench Press (Intermediate) - FW/M
+109. [Chest - Pectoralis] Chest Press (Beginner) - M/M
+110. [Chest - Pectoralis] Decline Dumbbell Bench Press (Advanced) - FW/M
+111. [Chest - Pectoralis] Decline Smith Machine Bench Press (Advanced) - M/M
+112. [Chest - Pectoralis] Dumbbell Bench Press (Beginner) - FW/M
+113. [Chest - Pectoralis] Dumbbell Push-Up (Beginner) - FW/M
+114. [Chest - Pectoralis] Elevated Push-Up (Advanced) - FW/M
+115. [Chest - Pectoralis] Flat Bench Press (Intermediate) - FW/M
+116. [Chest - Pectoralis] Incline Alternating Dumbbell Bench Press (Advanced) - FW/M
+117. [Chest - Pectoralis] Incline Bench Press (Advanced) - FW/M
+118. [Chest - Pectoralis] Incline Dumbbell Bench Press (Advanced) - FW/M
+119. [Chest - Pectoralis] Incline Hammer Dumbbell Bench Press (Advanced) - FW/M
+120. [Chest - Pectoralis] Incline Single-Arm Dumbbell Bench Press (Advanced) - FW/M
+121. [Chest - Pectoralis] Incline Smith Machine Bench Press (Advanced) - M/M
+122. [Chest - Pectoralis] Incline Twisting Dumbbell Bench Press (Advanced) - FW/M
+123. [Chest - Pectoralis] Kneeling Push-Up (Beginner) - FW/M
+124. [Chest - Pectoralis] Machine Bench Press (Beginner) - M/M
+125. [Chest - Pectoralis] Machine Vertical Bench Press (Beginner) - M/M
+126. [Chest - Pectoralis] Medicine Ball Crossover Push-Up (Advanced) - FW/M
+127. [Chest - Pectoralis] Push-Up (Beginner) - FW/M
+128. [Chest - Pectoralis] Single-Arm Dumbbell Bench Press (Intermediate) - FW/M
+129. [Chest - Pectoralis] Smith Machine Bench Press (Intermediate) - M/M
+130. [Chest - Pectoralis] Twisting Dumbbell Bench Press (Beginner) - FW/M
+131. [Chest - Pectoralis] Wide-Grip Push-Up (Beginner) - FW/M
+132. [Chest - Pectoralis] Cable Crossover (Advanced) - C/S
+133. [Chest - Pectoralis] Cable Fly (Advanced) - C/S
+134. [Chest - Pectoralis] Decline Dumbbell Fly (Advanced) - FW/S
+135. [Chest - Pectoralis] Dumbbell Fly (Beginner) - FW/S
+136. [Chest - Pectoralis] High Cable Crossover (Advanced) - C/S
+137. [Chest - Pectoralis] Incline Cable Fly (Advanced) - C/S
+138. [Chest - Pectoralis] Incline Dumbbell Fly (Advanced) - FW/S
+139. [Chest - Pectoralis] Incline Twisting Dumbbell Fly (Advanced) - FW/S
+140. [Chest - Pectoralis] Low Cable Crossover (Intermediate) - C/S
+141. [Chest - Pectoralis] Pec Deck (Beginner) - M/S
+142. [Chest - Pectoralis] Pec Deck Fly (Beginner) - M/S
+143. [Legs - Hamstrings] Bent-Knee Single-Leg Hip Lift (Advanced) - FW/M
+144. [Legs - Hamstrings] Elevated Hip Lift (Intermediate) - FW/M
+145. [Legs - Hamstrings] Elevated Single-Leg Hip Lift (Advanced) - FW/M
+146. [Legs - Hamstrings] Hip Lift (Beginner) - FW/M
+147. [Legs - Hamstrings] Single-Leg Hip Lift (Intermediate) - FW/M
+148. [Legs - Hamstrings] Deadlift (Advanced) - FW/S
+149. [Legs - Hamstrings] Leg Curl (Beginner) - M/S
+150. [Legs - Hamstrings] Lying Alternating Leg Curl (Intermediate) - M/S
+151. [Legs - Hamstrings] Lying Single-Leg Curl (Intermediate) - M/S
+152. [Legs - Quadriceps] Barbell Diagonal Lunge (Advanced) - FW/M
+153. [Legs - Quadriceps] Barbell Hack Squat (Advanced) - FW/M
+154. [Legs - Quadriceps] Barbell Lunge (Intermediate) - FW/M
+155. [Legs - Quadriceps] Barbell Reverse Lunge (Intermediate) - FW/M
+156. [Legs - Quadriceps] Barbell Side Lunge (Intermediate) - FW/M
+157. [Legs - Quadriceps] Barbell Split Squat (Advanced) - FW/M
+158. [Legs - Quadriceps] Barbell Squat (Beginner) - FW/M
+159. [Legs - Quadriceps] Barbell Step-Up (Advanced) - FW/M
+160. [Legs - Quadriceps] Barbell Walking Lunge (Advanced) - FW/M
+161. [Legs - Quadriceps] Diagonal Lunge (Intermediate) - FW/M
+162. [Legs - Quadriceps] Dumbbell Diagonal Lunge (Advanced) - FW/M
+163. [Legs - Quadriceps] Dumbbell Lunge (Beginner) - FW/M
+164. [Legs - Quadriceps] Dumbbell Reverse Lunge (Intermediate) - FW/M
+165. [Legs - Quadriceps] Dumbbell Side Lunge (Intermediate) - FW/M
+166. [Legs - Quadriceps] Dumbbell Split Squat (Advanced) - FW/M
+167. [Legs - Quadriceps] Dumbbell Squat (Beginner) - FW/M
+168. [Legs - Quadriceps] Dumbbell Step-Up (Beginner) - FW/M
+169. [Legs - Quadriceps] Dumbbell Walking Lunge (Advanced) - FW/M
+170. [Legs - Quadriceps] Forward Lunge (Beginner) - FW/M
+171. [Legs - Quadriceps] Lateral Barbell Squat (Intermediate) - FW/M
+172. [Legs - Quadriceps] Lateral Barbell Step-Up (Advanced) - FW/M
+173. [Legs - Quadriceps] Lateral Squat (Beginner) - FW/M
+174. [Legs - Quadriceps] Lateral Step-Up (Beginner) - FW/M
+175. [Legs - Quadriceps] Lunge (Beginner) - FW/M
+176. [Legs - Quadriceps] Lying Machine Squat (Beginner) - M/M
+177. [Legs - Quadriceps] Machine Hack Squat (Beginner) - M/M
+178. [Legs - Quadriceps] Reverse Lunge (Beginner) - FW/M
+179. [Legs - Quadriceps] Single-Arm Barbell Side Squat (Advanced) - FW/M
+180. [Legs - Quadriceps] Single-Arm Dumbbell Side Squat (Intermediate) - FW/M
+181. [Legs - Quadriceps] Single-Leg Barbell Squat (Advanced) - FW/M
+182. [Legs - Quadriceps] Single-Leg Box Squat (Advanced) - FW/M
+183. [Legs - Quadriceps] Single-Leg Dumbbell Box Squat (Advanced) - FW/M
+184. [Legs - Quadriceps] Single-Leg Dumbbell Squat (Intermediate) - FW/M
+185. [Legs - Quadriceps] Single-Leg Squat (Intermediate) - FW/M
+186. [Legs - Quadriceps] Smith Machine Squat (Intermediate) - M/M
+187. [Legs - Quadriceps] Split Squat (Advanced) - FW/M
+188. [Legs - Quadriceps] Step-Up (Beginner) - FW/M
+189. [Legs - Quadriceps] Walking Lunge (Intermediate) - FW/M
+190. [Legs - Quadriceps] Alternating Leg Extension (Intermediate) - M/S
+191. [Legs - Quadriceps] Single-Leg Extension (Intermediate) - M/S
+192. [Lower Back - Erector Spinae] Alternating Superman (Beginner) - FW/M
+193. [Lower Back - Erector Spinae] Back Raise (Beginner) - FW/M
+194. [Lower Back - Erector Spinae] Quadruped Alternating Superman (Beginner) - FW/M
+195. [Lower Back - Erector Spinae] Superman (Beginner) - FW/M
+196. [Lower Back - Erector Spinae] Superman Hold (Beginner) - FW/M
+197. [Shoulders - Delts/Traps] Arnold Dumbbell Press (Intermediate) - FW/M
+198. [Shoulders - Delts/Traps] Barbell Shoulder Press (Advanced) - FW/M
+199. [Shoulders - Delts/Traps] Dumbbell Alternating Shoulder Press (Beginner) - FW/M
+200. [Shoulders - Delts/Traps] Dumbbell Front Raise (Beginner) - FW/M
+201. [Shoulders - Delts/Traps] Dumbbell Shoulder Press (Intermediate) - FW/M
+202. [Shoulders - Delts/Traps] Dumbbell Twisting Shoulder Press (Intermediate) - FW/M
+203. [Shoulders - Delts/Traps] Machine Shoulder Press (Beginner) - M/M
+204. [Shoulders - Delts/Traps] Seated Dumbbell Rear Delt Elbow Raise (Intermediate) - FW/M
+205. [Shoulders - Delts/Traps] Single-Arm Dumbbell Shoulder Press (Beginner) - FW/M
+206. [Shoulders - Delts/Traps] Smith Machine Shoulder Press (Advanced) - M/M
+207. [Shoulders - Delts/Traps] Barbell Front Raise (Intermediate) - FW/S
+208. [Shoulders - Delts/Traps] Bent-Over Cable Rear Delt Raise (Advanced) - C/S
+209. [Shoulders - Delts/Traps] Bent-Over Dumbbell Rear Delt Raise (Intermediate) - FW/S
+210. [Shoulders - Delts/Traps] Cable Front Raise (Intermediate) - C/S
+211. [Shoulders - Delts/Traps] Front Plate Raise (Beginner) - FW/S
+212. [Shoulders - Delts/Traps] Kneeling Single-Arm Cable Rear Delt Raise (Advanced) - C/S
+213. [Shoulders - Delts/Traps] Lying Dumbbell External Rotation (Beginner) - FW/S
+214. [Shoulders - Delts/Traps] Lying Dumbbell Rear Delt Raise (Beginner) - FW/S
+215. [Shoulders - Delts/Traps] Lying Single-Arm Dumbbell Rear Delt Raise (Beginner) - FW/S
+216. [Shoulders - Delts/Traps] Pec Deck Real Delt Extensions (Intermediate) - M/S
+217. [Shoulders - Delts/Traps] Reverse Incline Dumbbell Rear Delt Raise (Advanced) - FW/S
+218. [Shoulders - Delts/Traps] Seated Dumbbell Rear Delt Raise (Beginner) - FW/S
+219. [Shoulders - Delts/Traps] Single-Arm Cable Lateral Raise (Intermediate) - C/S
+220. [Shoulders - Rotator Cuff] Cable External Rotation (Beginner) - C/S
+221. [Triceps] Forward Lean Dips (Intermediate) - FW/M
+222. [Triceps] Assisted Dips (Beginner) - FW/M
+223. [Triceps] Diamond Push-Up (Intermediate) - FW/M
+224. [Triceps] Dips (Intermediate) - FW/M
+225. [Triceps] Machine Dips (Beginner) - M/M
+226. [Triceps] Decline Dumbbell Triceps Extension (Advanced) - FW/S
+227. [Triceps] Decline EZ-Bar Tricep Extension (Advanced) - FW/S
+228. [Triceps] Decline Single Dumbbell Triceps Extension (Advanced) - FW/S
+229. [Triceps] Decline Single-Arm Dumbbell Triceps Extension (Advanced) - FW/S
+230. [Triceps] Dumbbell Kickback (Beginner) - FW/S
+231. [Triceps] Incline EZ-Bar Tricep Extension (Advanced) - FW/S
+232. [Triceps] Kneeling Cable Triceps Extension (Beginner) - C/S
+233. [Triceps] Leaning Overhead Tricep Extension (Intermediate) - FW/S
+234. [Triceps] Low Cable Triceps Extension (Intermediate) - C/S
+235. [Triceps] Lying Cable Triceps Extension (Intermediate) - C/S
+236. [Triceps] Lying EZ-Bar Triceps Extension (Intermediate) - FW/S
+237. [Triceps] Lying Overhead EZ-Bar Tricep Extension (Intermediate) - FW/S
+238. [Triceps] Lying Reverse EZ-Bar Triceps Extension (Advanced) - FW/S
+239. [Triceps] Lying Single Dumbbell Triceps Extension (Beginner) - FW/S
+240. [Triceps] Lying Single-Arm Dumbbell Triceps Extension (Beginner) - FW/S
+241. [Triceps] Lying Tricep Extensions (Beginner) - FW/S
+242. [Triceps] Overhead Dumbbell Triceps Extension (Beginner) - FW/S
+243. [Triceps] Overhead EZ-Bar Triceps Extension (Advanced) - FW/S
+244. [Triceps] Overhead Rope Cable Tricep Extension (Intermediate) - C/S
+245. [Triceps] Overhead Single Dumbbell Tricep Extension (Beginner) - FW/S
+246. [Triceps] Overhead Single-Arm Cable Tricep Extension (Intermediate) - C/S
+247. [Triceps] Overhead Single-Arm Dumbbell Tricep Extension (Beginner) - FW/S
+248. [Triceps] Reverse Tricep Pushdown (Advanced) - C/S
+249. [Triceps] Rope Triceps Pushdown (Intermediate) - C/S
+250. [Triceps] Single-Arm Towel Triceps Pushdown (Beginner) - C/S
+251. [Triceps] Single-Arm Triceps Pushdown (Intermediate) - C/S
+252. [Triceps] Towel Triceps Pushdown (Beginner) - C/S
+253. [Triceps] Tricep Extensions (Beginner) - FW/S
+254. [Triceps] Tricep Pushdown (Beginner) - C/S
+255. [Triceps] Tricep Pushdown (Beginner) - C/S
+256. [Triceps] V-Bar Tricep Pushdown (Beginner) - C/S

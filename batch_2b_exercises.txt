@@ -1,0 +1,20 @@
+1. Single-Arm Lat Pulldown|Back - Lat.Dorsi/Rhomboids|Intermediate|C|M|Upper|Pull
+2. Standing Cable Row|Back - Lat.Dorsi/Rhomboids|Beginner|C|M|Upper|Pull
+3. Standing Single-Arm Cable Row|Back - Lat.Dorsi/Rhomboids|Intermediate|C|M|Upper|Pull
+4. Alternating Dumbbell Curl|Biceps|Beginner|FW|S|Upper|Pull
+5. Alternating Hammer Curl|Biceps|Beginner|FW|S|Upper|Pull
+6. Barbell Curl|Biceps|Beginner|FW|S|Upper|Pull
+7. Bicep Curl|Biceps|Beginner|FW|S|Upper|Pull
+8. Bottom/Top/Full Curls|Biceps|Advanced|FW|S|Upper|Pull
+9. Cable Curl|Biceps|Intermediate|C|S|Upper|Pull
+10. Concentration Dumbbell Curl|Biceps|Intermediate|FW|S|Upper|Pull
+11. Cross Body Hammer Curl|Biceps|Advanced|FW|S|Upper|Pull
+12. Dumbbell Curl|Biceps|Beginner|FW|S|Upper|Pull
+13. EZ-Bar Curl|Biceps|Intermediate|FW|S|Upper|Pull
+14. Hammer Curl|Biceps|Beginner|FW|S|Upper|Pull
+15. Incline Alternating Dumbbell Curl|Biceps|Advanced|FW|S|Upper|Pull
+16. Incline Alternating Hammer Curl|Biceps|Advanced|FW|S|Upper|Pull
+17. Incline Dumbbell Curl|Biceps|Advanced|FW|S|Upper|Pull
+18. Incline Hammer Curl|Biceps|Advanced|FW|S|Upper|Pull
+19. Kneeling Cable Curl|Biceps|Beginner|C|S|Upper|Pull
+20. Lying Cable Curl|Biceps|Intermediate|C|S|Upper|Pull

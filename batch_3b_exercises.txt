@@ -1,0 +1,79 @@
+BATCH 3B EXERCISES - QUICK REFERENCE LIST
+==========================================
+Research Date: 2025-11-28
+Total Exercises: 20
+Word Count: ~14,000 words
+Scientific References: 80+ peer-reviewed sources
+
+BICEPS (1 exercise):
+1. Spider Curl
+
+CALVES - GASTROCNEMIUS (8 exercises):
+2. Barbell Calf Raise
+3. Calf Press
+4. Calf Raise - Seated (NOTE: Actually targets SOLEUS primarily due to knee flexion)
+5. Calf Raise - Standing
+6. Dumbbell Calf Raise
+7. Single-Leg Calf Press
+8. Single-Leg Dumbbell Calf Raise
+9. Smith Machine Calf Raise
+
+CALVES - SOLEUS (2 exercises):
+10. Seated Calf Raise
+11. Seated Single-Leg Calf Raise
+
+CHEST - PECTORALIS (9 exercises):
+12. Alternating Dumbbell Bench Press
+13. Barbell Bench Press
+14. Chest Press (Machine)
+15. Decline Dumbbell Bench Press
+16. Decline Smith Machine Bench Press
+17. Dumbbell Bench Press
+18. Dumbbell Push-Up
+19. Elevated Push-Up
+20. Flat Bench Press
+
+RESEARCH HIGHLIGHTS:
+- All exercises include complete 16-column data structure
+- 3-4 peer-reviewed scientific references per exercise (DOI/URL citations)
+- Specific Latin muscle names (gastrocnemius medial/lateral heads, soleus, pectoralis major clavicular/sternocostal heads)
+- 5-7 beginner instruction steps
+- 3-5 advanced coaching cues
+- 5+ sports application tags per exercise
+- [TBD] video URL placeholders
+
+KEY SCIENTIFIC FINDINGS:
+
+CALF TRAINING:
+- Knee angle = primary determinant of gastrocnemius vs soleus activation
+- Standing/extended knee = gastrocnemius dominant (Type II fast-twitch)
+- Seated/flexed knee = soleus dominant (Type I slow-twitch)
+- Equipment type less important than knee position
+- Both variations required for complete triceps surae development
+- Gastrocnemius: 8-12 reps, heavy loads
+- Soleus: 15-30 reps, moderate loads, longer TUT
+
+CHEST TRAINING:
+- Bench angle significantly affects pectoralis major head recruitment
+- Incline 30-45° = clavicular (upper) head emphasis
+- Flat = balanced clavicular + sternocostal development
+- Decline 15-30° = sternocostal (lower) head emphasis
+- Dumbbells increase stabilizer activation (anterior deltoid, biceps) vs barbell
+- Dumbbells allow greater ROM (descend below chest, adduction at top)
+- Machines reduce stabilizer activation, allow higher loads safely
+- Free weights superior for functional strength, machines superior for isolation
+
+BICEPS TRAINING:
+- Shoulder position determines biceps head recruitment
+- Arm forward/shoulder flexion (spider curl) = short head emphasis
+- Arm behind body/shoulder extension (incline curl) = long head emphasis
+- Spider curl provides constant tension throughout ROM due to vertical arm position
+- Fixed elbow position eliminates momentum and shoulder involvement
+- Peak contraction occurs at 90° elbow flexion
+
+SOURCE FILE:
+batch_3b_exercises_research.md
+
+STATUS:
+✅ Research complete
+⏳ Database integration pending (Session 9+)

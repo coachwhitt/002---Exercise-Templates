@@ -1,0 +1,20 @@
+1. Side-Plank (hip lift)|Abdominals - Total|Beginner|FW|M|Core|Static
+2. Side-Plank (from toes)|Abdominals - Total|Advanced|FW|M|Core|Static
+3. Ab Cycle|Abdominals - Total|Advanced|FW|M|Core|Push
+4. Kneeling Ab Rollout|Abdominals - Total|Intermediate|FW|M|Core|Push
+5. Medicine Ball V-Up|Abdominals - Total|Advanced|FW|M|Core|Push
+6. V-Up|Abdominals - Total|Beginner|FW|M|Core|Push
+7. Weighted V-Up|Abdominals - Total|Intermediate|FW|M|Core|Push
+8. Bent Knee Sit-Up|Abdominals - Upper|Beginner|FW|M|Core|Push
+9. Bent-Knee Crunch|Abdominals - Upper|Beginner|FW|M|Core|Push
+10. Crunch|Abdominals - Upper|Beginner|FW|M|Core|Push
+11. Crunch|Abdominals - Upper|Beginner|FW|M|Core|Push
+12. Decline Crunch|Abdominals - Upper|Advanced|FW|M|Core|Push
+13. Decline Sit-Up|Abdominals - Upper|Advanced|FW|M|Core|Push
+14. Heel Touch|Abdominals - Upper|Beginner|FW|M|Core|Push
+15. Sit-Up|Abdominals - Upper|Beginner|FW|M|Core|Push
+16. Weighted Crunch|Abdominals - Upper|Intermediate|FW|M|Core|Push
+17. Assisted Pull-Up|Back - Latissimus Dorsi|Beginner|FW|M|Upper|Pull
+18. Close-Grip Lat Pulldown|Back - Latissimus Dorsi|Beginner|M|M|Upper|Pull
+19. Inverted Pull-Up|Back - Latissimus Dorsi|Advanced|FW|M|Upper|Pull
+20. Lat Pulldown|Back - Latissimus Dorsi|Beginner|C|M|Upper|Pull

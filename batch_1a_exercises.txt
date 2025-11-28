@@ -1,0 +1,20 @@
+Full Reverse Crunch|Abdominals - Lower|Advanced|FW|M|Core|Push
+Incline Hip Thrust|Abdominals - Lower|Advanced|FW|M|Core|Push
+Incline Reverse Crunch|Abdominals - Lower|Advanced|FW|M|Core|Push
+Lying Hip Thrust|Abdominals - Lower|Advanced|FW|M|Core|Push
+Reverse Crunch|Abdominals - Lower|Beginner|FW|M|Core|Push
+Reverse Medicine Ball Crunch|Abdominals - Lower|Advanced|FW|M|Core|Push
+Alternating Heel Touch|Abdominals - Obliques|Beginner|FW|M|Core|Push
+Bent-Knee Medicine Ball Hip Rotation|Abdominals - Obliques|Advanced|FW|M|Core|Push
+Cable Chop|Abdominals - Obliques|Advanced|C|M|Core|Push
+Cross Crunch|Abdominals - Obliques|Beginner|FW|M|Core|Push
+Cross Crunch w/ Medicine Ball|Abdominals - Obliques|Advanced|FW|M|Core|Push
+Decline Cross Sit-Up|Abdominals - Obliques|Advanced|FW|M|Core|Push
+Decline Sit-Up w/ Twist|Abdominals - Obliques|Advanced|FW|M|Core|Push
+Reverse Cable Chop|Abdominals - Obliques|Advanced|C|M|Core|Push
+Seated Medicine Ball Twist|Abdominals - Obliques|Advanced|FW|M|Core|Push
+Trunk Rotator|Abdominals - Obliques|Advanced|FW|M|Core|Push
+Front Plank (from knees)|Abdominals - Total|Beginner|FW|M|Core|Static
+Front Plank (from toes)|Abdominals - Total|Intermediate|FW|M|Core|Static
+Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm)|Abdominals - Total|Advanced|FW|M|Core|Static
+Side-Plank (from knees)|Abdominals - Total|Intermediate|FW|M|Core|Static
