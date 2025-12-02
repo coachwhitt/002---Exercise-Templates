@@ -1,0 +1,44 @@
+Batch 4: Chest Exercises (Lines 126-150 from Origym.csv)
+25 exercises total - All Chest (Pectoralis)
+
+INCLINE PRESS VARIATIONS (8 exercises):
+1. Incline Alternating Dumbbell Bench Press
+2. Incline Barbell Bench Press
+3. Incline Bench Press
+4. Incline Dumbbell Bench Press
+5. Incline Hammer Dumbbell Bench Press
+6. Incline Single-Arm Dumbbell Bench Press
+7. Incline Smith Machine Bench Press
+8. Incline Twisting Dumbbell Bench Press
+
+PUSH-UP VARIATIONS (4 exercises):
+9. Kneeling Push-Up
+10. Medicine Ball Crossover Push-Up
+11. Push-Up
+12. Wide-Grip Push-Up
+
+MACHINE & FLAT PRESS VARIATIONS (4 exercises):
+13. Machine Bench Press
+14. Machine Vertical Bench Press
+15. Single-Arm Dumbbell Bench Press
+16. Smith Machine Bench Press
+17. Twisting Dumbbell Bench Press
+
+FLY VARIATIONS (8 exercises):
+18. Cable Crossover
+19. Cable Fly
+20. Decline Dumbbell Fly
+21. Dumbbell Fly
+22. High Cable Crossover
+23. Incline Cable Fly
+24. Incline Dumbbell Fly
+25. Incline Twisting Dumbbell Fly
+
+Research Focus:
+- Bench angle effects on clavicular vs sternal pectoralis recruitment
+- EMG comparison: incline (30-45°) vs flat (0°) vs decline (15-30°)
+- Equipment modality effects: barbell, dumbbell, machine, cable
+- Grip variations: neutral (hammer), pronated, twisting
+- Unilateral vs bilateral loading patterns
+- Push-up variations: kneeling, wide-grip, medicine ball instability
+- Fly pattern mechanics and peak contraction differences
