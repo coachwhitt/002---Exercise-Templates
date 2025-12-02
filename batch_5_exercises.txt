@@ -1,0 +1,41 @@
+BATCH 5 - Exercise Database Expansion (Session 12)
+Lines 151-175 from Origym.csv (25 exercises)
+=================================================
+
+CHEST EXERCISES (3):
+1. Low Cable Crossover
+2. Pec Deck
+3. Pec Deck Fly
+
+HAMSTRING EXERCISES (11):
+4. Bent-Knee Single-Leg Hip Lift
+5. Elevated Hip Lift
+6. Elevated Single-Leg Hip Lift
+7. Hip Lift
+8. Single-Leg Hip Lift
+9. Deadlift
+10. Leg Curl
+11. Lying Alternating Leg Curl
+12. Lying Leg Curl
+13. Lying Single-Leg Curl
+14. Seated Leg Curl
+
+QUADRICEPS EXERCISES (11):
+15. Barbell Diagonal Lunge
+16. Barbell Hack Squat
+17. Barbell Lunge
+18. Barbell Reverse Lunge
+19. Barbell Side Lunge
+20. Barbell Split Squat
+21. Barbell Squat
+22. Barbell Step-Up
+23. Barbell Walking Lunge
+24. Diagonal Lunge
+25. Dumbbell Diagonal Lunge
+
+=================================================
+Total: 25 exercises
+Session: 12
+Date: 2025-12-02
+Batch Status: PENDING → COMPLETE (after integration)
+=================================================
