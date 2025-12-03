@@ -1,0 +1,25 @@
+176: Dumbbell Lunge
+177: Dumbbell Reverse Lunge
+178: Dumbbell Side Lunge
+179: Dumbbell Split Squat
+180: Dumbbell Squat
+181: Dumbbell Step-Up
+182: Dumbbell Walking Lunge
+183: Forward Lunge
+184: Lateral Barbell Squat
+185: Lateral Barbell Step-Up
+186: Lateral Squat
+187: Lateral Step-Up
+188: Leg Press
+189: Lunge
+190: Lying Machine Squat
+191: Machine Hack Squat
+192: Reverse Lunge
+193: Single-Arm Barbell Side Squat
+194: Single-Arm Dumbbell Side Squat
+195: Single-Leg Barbell Squat
+196: Single-Leg Box Squat
+197: Single-Leg Dumbbell Box Squat
+198: Single-Leg Dumbbell Squat
+199: Single-Leg Squat
+200: Smith Machine Squat

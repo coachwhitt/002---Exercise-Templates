@@ -1,0 +1,25 @@
+226: Dumbbell Lateral Raise
+227: Front Plate Raise
+228: Kneeling Single-Arm Cable Rear Delt Raise
+229: Lying Dumbbell External Rotation
+230: Lying Dumbbell Rear Delt Raise
+231: Lying Single-Arm Dumbbell Rear Delt Raise
+232: Pec Deck Real Delt Extensions
+233: Reverse Incline Dumbbell Rear Delt Raise
+234: Seated Dumbbell Rear Delt Raise
+235: Single-Arm Cable Lateral Raise
+236: Cable External Rotation
+237: Close-Grip Bench Press
+238: Forward Lean Dips
+239: Assisted Dips
+240: Bench Dips
+241: Diamond Push-Up
+242: Dips
+243: Machine Dips
+244: Decline Dumbbell Triceps Extension
+245: Decline EZ-Bar Tricep Extension
+246: Decline Single Dumbbell Triceps Extension
+247: Decline Single-Arm Dumbbell Triceps Extension
+248: Dumbbell Kickback
+249: Incline EZ-Bar Tricep Extension
+250: Kneeling Cable Triceps Extension

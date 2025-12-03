@@ -1,0 +1,25 @@
+201: Split Squat
+202: Step-Up
+203: Walking Lunge
+204: Alternating Leg Extension
+205: Leg Extension
+206: Single-Leg Extension
+207: Alternating Superman
+208: Back Raise
+209: Quadruped Alternating Superman
+210: Superman
+211: Superman Hold
+212: Arnold Dumbbell Press
+213: Barbell Shoulder Press
+214: Dumbbell Alternating Shoulder Press
+215: Dumbbell Front Raise
+216: Dumbbell Shoulder Press
+217: Dumbbell Twisting Shoulder Press
+218: Machine Shoulder Press
+219: Seated Dumbbell Rear Delt Elbow Raise
+220: Single-Arm Dumbbell Shoulder Press
+221: Smith Machine Shoulder Press
+222: Barbell Front Raise
+223: Bent-Over Cable Rear Delt Raise
+224: Bent-Over Dumbbell Rear Delt Raise
+225: Cable Front Raise
