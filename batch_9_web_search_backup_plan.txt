@@ -1,0 +1,109 @@
+BATCH 9 WEB SEARCH BACKUP PLAN
+===============================
+
+If Gemini is unavailable, use parallel web search strategy (proven successful in Session 15)
+
+SEARCH GROUPS (10 parallel searches):
+======================================
+
+GROUP 1: LYING TRICEPS EXTENSIONS (7 exercises)
+------------------------------------------------
+Search query: "lying triceps extension EMG muscle activation skull crusher biomechanics peer-reviewed study"
+Exercises:
+- Lying Cable Triceps Extension
+- Lying EZ-Bar Triceps Extension
+- Lying Overhead EZ-Bar Tricep Extension
+- Lying Reverse EZ-Bar Triceps Extension
+- Lying Single Dumbbell Triceps Extension
+- Lying Single-Arm Dumbbell Triceps Extension
+- Lying Tricep Extensions
+
+GROUP 2: OVERHEAD TRICEPS EXTENSIONS (8 exercises)
+---------------------------------------------------
+Search query: "overhead triceps extension long head EMG activation French press biomechanics research"
+Exercises:
+- Leaning Overhead Tricep Extension
+- Overhead Dumbbell Triceps Extension
+- Overhead EZ-Bar Triceps Extension
+- Overhead Rope Cable Tricep Extension
+- Overhead Single Dumbbell Tricep Extension
+- Overhead Single-Arm Cable Tricep Extension
+- Overhead Single-Arm Dumbbell Tricep Extension
+- Tricep Extensions
+
+GROUP 3: TRICEPS PUSHDOWNS (7 exercises)
+-----------------------------------------
+Search query: "triceps pushdown cable EMG muscle activation lateral medial head biomechanics study"
+Exercises:
+- Low Cable Triceps Extension
+- Reverse Tricep Pushdown
+- Rope Triceps Pushdown
+- Single-Arm Towel Triceps Pushdown
+- Single-Arm Triceps Pushdown
+- Towel Triceps Pushdown
+- Tricep Pushdown
+
+GROUP 4: NECK FLEXION & EXTENSION (4 exercises)
+------------------------------------------------
+Search query: "neck flexion extension strengthening sternocleidomastoid EMG contact sports injury prevention research"
+Exercises:
+- Neck Flexion (Machine)
+- Neck Extension (Machine)
+- Isometric Neck Flexion (4-Way Neck Machine)
+- Lying Neck Curl (Plate-Loaded)
+
+GROUP 5: NECK LATERAL & ROTATION (2 exercises)
+-----------------------------------------------
+Search query: "lateral neck flexion rotation manual resistance cervical spine strengthening EMG study"
+Exercises:
+- Lateral Neck Flexion (Manual Resistance)
+- Neck Rotation (Manual Resistance)
+
+GROUP 6: ROTATOR CUFF INTERNAL/EXTERNAL ROTATION (2 exercises)
+---------------------------------------------------------------
+Search query: "rotator cuff external internal rotation cable exercise subscapularis infraspinatus EMG shoulder injury prevention"
+Exercises:
+- Cable Internal Rotation
+- Cable External Rotation
+
+GROUP 7: TRICEPS LONG HEAD ACTIVATION RESEARCH
+-----------------------------------------------
+Search query: "triceps long head activation overhead vs lying position EMG elbow extension biomechanics 2020-2024"
+
+GROUP 8: NECK STRENGTH CONTACT SPORTS RESEARCH
+-----------------------------------------------
+Search query: "neck strength training american football rugby wrestling injury prevention cervical spine 2020-2024"
+
+GROUP 9: TRICEPS PUSHDOWN VARIATIONS COMPARISON
+------------------------------------------------
+Search query: "triceps pushdown rope vs bar vs reverse grip EMG comparison medial lateral head 2020-2024"
+
+GROUP 10: ROTATOR CUFF SHOULDER HEALTH RESEARCH
+------------------------------------------------
+Search query: "rotator cuff strengthening overhead athletes baseball tennis swimming injury prevention 2020-2024"
+
+---
+
+IMPLEMENTATION STRATEGY:
+========================
+
+1. Launch all 10 web searches in parallel (single message, 10 WebSearch tool calls)
+2. Compile results into organized research document
+3. Format into database-ready entries matching 16-column structure
+4. Cross-reference with Origym materials for exercise form details
+
+EXPECTED OUTCOMES:
+==================
+- 60-100+ peer-reviewed references (6-10 per search group)
+- Comprehensive EMG muscle activation data for all 30 exercises
+- Sports application validation from peer-reviewed literature
+- Injury prevention and biomechanics insights for neck and rotator cuff exercises
+
+TIME ESTIMATE:
+==============
+- Parallel searches: 2-3 minutes
+- Result compilation: 10-15 minutes
+- Database formatting: 10-15 minutes
+- Total: 25-35 minutes
+
+This backup plan ensures Session 16 can proceed regardless of Gemini availability.

@@ -1,0 +1,331 @@
+# EXERCISES REMAINING FOR FUTURE SESSION
+## Systematic Review: Database vs Origym.csv (2025-12-04)
+
+**Analysis Date:** December 4, 2025 (Post-Session 16)
+**Database Total:** 385 exercises
+**Origym.csv Total:** 271 exercises
+**Origym.csv Coverage:** 248/271 found in database (91.5%)
+**Missing:** 23 exercises
+
+---
+
+## SUMMARY
+
+Of the 23 missing exercises:
+- **21 exercises:** Marked COMPLETE in Origym.csv (researched but not integrated)
+- **2 exercises:** Marked PENDING in Origym.csv (never researched)
+
+**Recommendation:** Add these 23 exercises in a future supplementary session to reach **408 total exercises** (385 current + 23 missing = 408 final)
+
+---
+
+## MISSING EXERCISES BY CATEGORY (23 total)
+
+### ABDOMINALS - TOTAL (1 exercise) - COMPLETE in Origym.csv
+1. **Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm)**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 7 (Batch 1a or 1b)
+   - Reason missing: Not integrated during Session 7 batch processing
+
+---
+
+### BACK - LAT.DORSI/RHOMBOIDS (1 exercise) - COMPLETE in Origym.csv
+2. **One Arm Dumbbell Row**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 9 (Batch 2a or 2b)
+   - Reason missing: Not integrated during Session 9 batch processing
+
+---
+
+### BACK - LATISSIMUS DORSI (1 exercise) - COMPLETE in Origym.csv
+3. **Reverse-Grip Lat Pulldown**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 9 (Batch 2a or 2b)
+   - Reason missing: Not integrated during Session 9 batch processing
+
+---
+
+### SHOULDERS - DELTS/TRAPS (9 exercises) - ALL COMPLETE in Origym.csv
+4. **Front Plate Raise**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 14 or 15 (Batch 7 or 8)
+   - Reason missing: Not integrated during shoulder batch processing
+
+5. **Kneeling Single-Arm Cable Rear Delt Raise**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 15 (Batch 8)
+   - Reason missing: Not integrated during Session 15 batch processing
+
+6. **Lying Dumbbell External Rotation**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 15 (Batch 8)
+   - Reason missing: Not integrated; possibly rotator cuff exercise
+
+7. **Lying Dumbbell Rear Delt Raise**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 15 (Batch 8)
+   - Reason missing: Not integrated during Session 15 batch processing
+
+8. **Lying Single-Arm Dumbbell Rear Delt Raise**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 15 (Batch 8)
+   - Reason missing: Not integrated during Session 15 batch processing
+
+9. **Pec Deck Rear Delt Extensions**
+   - Status: COMPLETE in Origym.csv
+   - Likely source: Session 15 (Batch 8)
+   - Reason missing: Not integrated during Session 15 batch processing
+
+10. **Reverse Incline Dumbbell Rear Delt Raise**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+11. **Seated Dumbbell Rear Delt Raise**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+12. **Single-Arm Cable Lateral Raise**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+---
+
+### TRICEPS (11 exercises) - 10 COMPLETE, 1 PENDING in Origym.csv
+
+**COMPLETE in Origym.csv (10 exercises):**
+
+13. **Forward Lean Dips**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+14. **Assisted Dips**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+15. **Machine Dips**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+16. **Decline Dumbbell Triceps Extension**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+17. **Decline EZ-Bar Tricep Extension**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+18. **Decline Single Dumbbell Triceps Extension**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+19. **Decline Single-Arm Dumbbell Triceps Extension**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+20. **Dumbbell Kickback**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+21. **Incline EZ-Bar Tricep Extension**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 15 (Batch 8)
+    - Reason missing: Not integrated during Session 15 batch processing
+
+22. **Kneeling Cable Triceps Extension**
+    - Status: COMPLETE in Origym.csv
+    - Likely source: Session 16 (Batch 9 - Line 251 in Origym.csv)
+    - Reason missing: Line 251 was marked COMPLETE but excluded from Batch 9 extraction (started at Line 252)
+
+**PENDING in Origym.csv (1 exercise):**
+
+23. **V-Bar Tricep Pushdown** ⚠️ NEVER RESEARCHED
+    - Status: PENDING in Origym.csv
+    - Likely source: Never extracted in any batch
+    - Reason missing: Overlooked during batch extractions
+    - **ACTION REQUIRED:** Research and integrate in future session
+
+---
+
+### LEGS - QUADRICEPS (1 exercise) - PENDING in Origym.csv
+
+**Not included in count above - separate from 23 missing exercises**
+
+24. **Split Squat** ⚠️ NEVER RESEARCHED
+    - Status: PENDING in Origym.csv
+    - Likely source: Never extracted in any batch
+    - Reason missing: Overlooked during batch extractions
+    - **ACTION REQUIRED:** Research and integrate in future session
+
+**Note:** Split Squat is the 2nd PENDING exercise in Origym.csv (total 2 PENDING: V-Bar Tricep Pushdown + Split Squat)
+
+---
+
+## ROOT CAUSE ANALYSIS
+
+### Why 21 COMPLETE Exercises Are Missing:
+
+1. **Session 15 (Batch 8) Integration Gap:**
+   - Batch 8 research was completed (25 exercises: 11 shoulder + 14 triceps)
+   - Research files exist: `batch_8_shoulder_triceps_exercises_research.md`
+   - **However:** Session 15 database integration was NOT completed
+   - **Evidence:** Empty placeholder rows found at lines 501-525 in comprehensive_exercise_database_v2.md
+   - **Impact:** 14-15 exercises from Batch 8 were researched but never integrated into database
+
+2. **Batch Extraction Boundaries:**
+   - Session 16 extracted Lines 252-274 from Origym.csv
+   - **Line 251 (Kneeling Cable Triceps Extension)** was marked COMPLETE but excluded from extraction
+   - Should have been included in Session 16 or earlier session
+
+3. **Earlier Session Integration Gaps:**
+   - Sessions 7, 9 had some exercises marked COMPLETE but not found in database
+   - Possible causes: Integration script errors, manual selection during batch processing
+
+---
+
+## RECOMMENDATIONS FOR FUTURE SESSION
+
+### Option 1: Supplementary Session (Recommended)
+**Add all 23 missing exercises in a single supplementary session**
+
+**Advantages:**
+- Achieves 100% Origym.csv coverage (271/271 = 100%)
+- Final database: 408 exercises (385 current + 23 missing)
+- Comprehensive coverage across all muscle groups
+- Fills all identified gaps
+
+**Estimated Effort:**
+- Research required: 2 exercises (V-Bar Tricep Pushdown, Split Squat) - already have research for other 21
+- Integration: ~1-2 hours to format and add all 23 exercises
+- Token budget: ~25-30K tokens (research for 2 + integration for 23)
+
+**Files to Reference:**
+- `batch_8_shoulder_triceps_exercises_research.md` (Session 15 research - has 10-11 triceps exercises)
+- Search for exercise names in existing batch research files (Sessions 7, 9, 15)
+
+### Option 2: Defer to Later Phase
+**Add missing exercises during card design phase as discovered**
+
+**Advantages:**
+- Focus on Phase 2 (card design/Blender) immediately
+- Add exercises organically as needed for specific client programs
+
+**Disadvantages:**
+- Database incomplete for systematic card production
+- May create duplicates or inconsistencies
+
+---
+
+## PRIORITY CLASSIFICATION
+
+### HIGH PRIORITY (Should add in supplementary session):
+
+**Never Researched (2 exercises):**
+1. V-Bar Tricep Pushdown (Triceps - Beginner)
+2. Split Squat (Legs - Quadriceps - Advanced)
+
+**High-Value Missing Exercises (9 shoulder exercises):**
+- Front Plate Raise
+- 8 rear delt variations (kneeling, lying, pec deck, reverse incline, seated, single-arm cable lateral)
+
+**Reason:** Shoulder exercises critical for overhead athlete programming
+
+### MEDIUM PRIORITY:
+
+**Triceps Decline Variations (4 exercises):**
+- Decline Dumbbell/EZ-Bar/Single Dumbbell/Single-Arm Dumbbell Triceps Extension
+- **Reason:** Decline angle provides unique stimulus vs lying/overhead
+
+**Triceps Dip Variations (3 exercises):**
+- Forward Lean Dips, Assisted Dips, Machine Dips
+- **Reason:** Compound movements with high training value
+
+### LOWER PRIORITY:
+
+**Remaining Exercises (5 exercises):**
+- Front Plank (tripod variation)
+- One Arm Dumbbell Row
+- Reverse-Grip Lat Pulldown
+- Dumbbell Kickback
+- Incline EZ-Bar Tricep Extension
+- Kneeling Cable Triceps Extension
+
+**Reason:** Similar variations already in database
+
+---
+
+## PROPOSED SUPPLEMENTARY SESSION PLAN
+
+### Session 17 (Supplementary Batch - Optional)
+
+**Focus:** Fill Origym.csv coverage gaps
+
+**Composition:**
+- **Priority 1:** Research 2 never-researched exercises (V-Bar Tricep Pushdown, Split Squat)
+- **Priority 2:** Locate and integrate 21 COMPLETE exercises from existing research files
+- **Total:** 23 exercises
+
+**Expected Outcome:**
+- Database: 385 → 408 exercises
+- Origym.csv: 268/271 → 271/271 COMPLETE (100%)
+- Comprehensive coverage achieved
+
+**Estimated Time:** 2-3 hours
+**Token Budget:** 25-30K tokens
+
+---
+
+## FILES TO CHECK FOR EXISTING RESEARCH
+
+The 21 COMPLETE but missing exercises were researched in previous sessions. Check these files:
+
+1. **batch_8_shoulder_triceps_exercises_research.md** (Session 15)
+   - Likely contains: 10-11 triceps exercises, 9 shoulder exercises
+
+2. **back_rowing_exercises_research.md** (Session 9 - Batch 2a)
+   - Likely contains: One Arm Dumbbell Row, Reverse-Grip Lat Pulldown
+
+3. **Session 7 research files** (if exist)
+   - Likely contains: Front Plank (tripod variation)
+
+**Search Strategy:**
+```bash
+grep -r "Front Plate Raise" *.md
+grep -r "V-Bar Tricep Pushdown" *.md
+grep -r "Dumbbell Kickback" *.md
+# etc.
+```
+
+---
+
+## CONCLUSION
+
+**Current Status:**
+- Database: 385 exercises (excellent coverage)
+- Origym.csv coverage: 91.5% (248/271)
+- Missing: 23 exercises (21 researched, 2 never researched)
+
+**Recommendation:**
+Add a **Session 17 (Supplementary)** to achieve 100% Origym.csv coverage before proceeding to Phase 2 (Card Design). This ensures the database is comprehensive and eliminates gaps that could cause issues during card production.
+
+**Alternative:**
+Proceed to Phase 2 immediately and defer supplementary exercises. The 385-exercise database provides excellent coverage for initial card design prototyping.
+
+---
+
+**Decision Point:** Should we add Session 17 (Supplementary) now, or proceed to Phase 2 and defer?
+
+---
+
+*Analysis completed December 4, 2025*
+*Review conducted post-Session 16 database finalization*

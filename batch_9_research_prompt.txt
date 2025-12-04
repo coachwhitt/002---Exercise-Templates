@@ -1,0 +1,147 @@
+BATCH 9 RESEARCH REQUEST - 30 EXERCISES
+========================================
+
+Session 16 - Final Database Expansion (355 → 380 exercises)
+
+Research ALL 30 exercises below using the exercise_research_prompt.md framework.
+
+For EACH exercise, provide:
+1. Exercise Name
+2. Primary Muscles (Latin anatomical terms)
+3. Secondary Muscles (Latin anatomical terms)
+4. Type (Compound/Isolation)
+5. Equipment
+6. Level (Beginner/Intermediate/Advanced)
+7. Body Region (Upper/Lower/Core)
+8. Movement Pattern (Push/Pull/Static)
+9. Modality (Free Weight/Cables/Machine/Bodyweight)
+10. Steps for Beginners (5-7 clear steps)
+11. Advanced Key Points (3-5 technical cues)
+12. Scientific Reference (3-4 peer-reviewed studies with DOIs, focus on EMG data)
+13. Sports Tags (10-12 specific sports where this exercise is highly applicable)
+
+---
+
+TRICEPS EXERCISES (22 exercises from Origym.csv):
+=================================================
+
+1. Leaning Overhead Tricep Extension (Intermediate, FW, Push)
+2. Low Cable Triceps Extension (Intermediate, Cable, Push)
+3. Lying Cable Triceps Extension (Intermediate, Cable, Push)
+4. Lying EZ-Bar Triceps Extension (Intermediate, FW, Push)
+5. Lying Overhead EZ-Bar Tricep Extension (Intermediate, FW, Push)
+6. Lying Reverse EZ-Bar Triceps Extension (Advanced, FW, Push)
+7. Lying Single Dumbbell Triceps Extension (Beginner, FW, Push)
+8. Lying Single-Arm Dumbbell Triceps Extension (Beginner, FW, Push)
+9. Lying Tricep Extensions (Beginner, FW, Push)
+10. Overhead Dumbbell Triceps Extension (Beginner, FW, Push)
+11. Overhead EZ-Bar Triceps Extension (Advanced, FW, Push)
+12. Overhead Rope Cable Tricep Extension (Intermediate, Cable, Push)
+13. Overhead Single Dumbbell Tricep Extension (Beginner, FW, Push)
+14. Overhead Single-Arm Cable Tricep Extension (Intermediate, Cable, Push)
+15. Overhead Single-Arm Dumbbell Tricep Extension (Beginner, FW, Push)
+16. Reverse Tricep Pushdown (Advanced, Cable, Push)
+17. Rope Triceps Pushdown (Intermediate, Cable, Push)
+18. Single-Arm Towel Triceps Pushdown (Beginner, Cable, Push)
+19. Single-Arm Triceps Pushdown (Intermediate, Cable, Push)
+20. Towel Triceps Pushdown (Beginner, Cable, Push)
+21. Tricep Extensions (Beginner, FW, Push)
+22. Tricep Pushdown (Beginner, Cable, Push)
+
+---
+
+NECK EXERCISES (6 supplementary exercises):
+============================================
+
+23. Neck Flexion (Machine) - Beginner, Upper, Pull, Machine
+24. Neck Extension (Machine) - Beginner, Upper, Pull, Machine
+25. Lateral Neck Flexion (Manual Resistance) - Intermediate, Upper, Static, Bodyweight
+26. Neck Rotation (Manual Resistance) - Intermediate, Upper, Static, Bodyweight
+27. Isometric Neck Flexion (4-Way Neck Machine) - Advanced, Upper, Static, Machine
+28. Lying Neck Curl (Plate-Loaded) - Advanced, Upper, Pull, Free Weight
+
+---
+
+ROTATOR CUFF EXERCISES (2 supplementary exercises):
+====================================================
+
+29. Cable Internal Rotation - Beginner, Upper, Pull, Cables
+30. Cable External Rotation - Beginner, Upper, Pull, Cables
+
+---
+
+RESEARCH REQUIREMENTS:
+======================
+
+For TRICEPS exercises:
+- Focus on EMG studies comparing lying vs overhead vs pushdown variations
+- Highlight long head activation differences (overhead = maximal long head stretch)
+- Document elbow positioning and shoulder angle effects on muscle recruitment
+- Include sports requiring triceps strength (throwing, punching, pressing movements)
+
+For NECK exercises:
+- Emphasize cervical spine safety and progression protocols
+- Reference contact sport injury prevention research
+- Document muscle activation: sternocleidomastoid, splenius capitis, trapezius
+- Sports focus: American Football, Rugby, Wrestling, MMA, Boxing, Hockey
+
+For ROTATOR CUFF exercises:
+- Focus on subscapularis (internal rotation) and infraspinatus/teres minor (external rotation)
+- Include shoulder health and injury prevention research
+- Document optimal shoulder positioning for isolation
+- Sports focus: Baseball, Tennis, Swimming, Volleyball, Overhead Athletes
+
+SCIENTIFIC REFERENCE STANDARDS:
+===============================
+- Minimum 3-4 peer-reviewed studies per exercise
+- Prefer EMG (electromyography) studies showing muscle activation patterns
+- Include DOI or PubMed URL for each reference
+- Format: Author(s) (Year). Title. Journal Volume(Issue):Pages. DOI/URL
+
+---
+
+DELIVERABLE FORMAT:
+===================
+
+Please provide research in the EXACT format used in previous batches:
+
+## EXERCISE NAME
+
+**Primary Muscles:** [Latin names]
+**Secondary Muscles:** [Latin names]
+**Type:** Compound/Isolation
+**Equipment:** [Specific equipment]
+**Level:** Beginner/Intermediate/Advanced
+**Body Region:** Upper/Lower/Core
+**Movement Pattern:** Push/Pull/Static
+**Modality:** Free Weight/Cables/Machine/Bodyweight
+
+**Steps for Beginners:**
+1. [Step 1]
+2. [Step 2]
+...
+
+**Advanced Key Points:**
+1. [Point 1]
+2. [Point 2]
+...
+
+**Scientific References:**
+1. [Author(s) (Year). Title. Journal. DOI/URL]
+2. [Author(s) (Year). Title. Journal. DOI/URL]
+3. [Author(s) (Year). Title. Journal. DOI/URL]
+4. [Author(s) (Year). Title. Journal. DOI/URL]
+
+**Sports Applications:** [Sport 1, Sport 2, Sport 3, ... Sport 10-12]
+
+---
+
+IMPORTANT NOTES:
+================
+- Use specific Latin muscle names (e.g., "Triceps Brachii - Long Head, Lateral Head, Medial Head")
+- Differentiate similar exercises clearly (e.g., lying vs overhead triceps extensions target different heads)
+- Ensure all 30 exercises are researched comprehensively
+- Maintain consistent formatting across all exercises
+- Focus on practical application for CoachWhitt's athlete clientele
+
+Please research all 30 exercises using the framework above.
