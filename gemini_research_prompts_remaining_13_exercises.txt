@@ -1,0 +1,252 @@
+# Gemini Research Prompts - 13 Remaining Exercises
+# Generated: 2025-12-04
+# Purpose: Manual research over weekend for Tuesday session
+
+---
+
+## BATCH 2: OLYMPIC LIFTS & CONDITIONING (7 EXERCISES)
+
+Research the following 7 exercises. For each exercise, provide:
+
+1. **Exercise Name** (standardized)
+2. **Primary Muscles** (Latin anatomical names)
+3. **Secondary Muscles** (Latin anatomical names)
+4. **Type** (Compound or Isolation)
+5. **Equipment** (specific equipment needed)
+6. **Level** (Beginner/Intermediate/Advanced)
+7. **Body Region** (Upper/Lower/Core)
+8. **Movement** (Push/Pull/Static/Explosive)
+9. **Modality** (Free Weight/Cables/Fixed Resistance/Bodyweight/Machine)
+10. **Steps for Beginners** (5-7 clear steps)
+11. **Advanced Key Points** (5 coaching cues with biomechanical insights)
+12. **Scientific Reference** (3-4 peer-reviewed studies with EMG data if available, include DOI or URL)
+13. **Sports Tags** (10-12 applicable sports)
+
+**Exercises to Research (Batch 2: Olympic Lifts & Conditioning):**
+
+1. **Clean (Power Clean)** - Olympic weightlifting movement, barbell from floor to front rack
+2. **Clean and Jerk** - Full Olympic lift: clean to front rack, then overhead jerk
+3. **Hang Clean** - Clean variation starting from hang position (above knee)
+4. **Snatch (Power Snatch)** - Olympic lift: barbell from floor to overhead in one motion
+5. **Thruster** - Barbell or dumbbell: front squat to overhead press (CrossFit movement)
+6. **Kettlebell Swings** - Hip hinge explosive movement with kettlebell
+7. **Prowler Push** - Weighted sled push for conditioning and lower body strength
+
+**Research Requirements:**
+- Focus on peer-reviewed scientific studies from 2000-2024
+- Include EMG (electromyography) data showing muscle activation patterns
+- Include DOI links or URLs for all references
+- For Olympic lifts (Clean, Snatch, Clean & Jerk, Hang Clean), include proper technique standards from weightlifting literature and power output research
+- For conditioning equipment (Prowler, Kettlebell Swings, Thruster), include metabolic demand and strength research
+- Include injury prevention and technique progression research
+
+**Format as a structured markdown document with each exercise clearly separated.**
+
+---
+
+## BATCH 3: KETTLEBELL, SUSPENSION, & MACHINE EXERCISES (6 EXERCISES)
+
+Research the following 6 exercises. For each exercise, provide:
+
+1. **Exercise Name** (standardized)
+2. **Primary Muscles** (Latin anatomical names)
+3. **Secondary Muscles** (Latin anatomical names)
+4. **Type** (Compound or Isolation)
+5. **Equipment** (specific equipment needed)
+6. **Level** (Beginner/Intermediate/Advanced)
+7. **Body Region** (Upper/Lower/Core)
+8. **Movement** (Push/Pull/Static/Explosive)
+9. **Modality** (Free Weight/Cables/Fixed Resistance/Bodyweight/Machine)
+10. **Steps for Beginners** (5-7 clear steps)
+11. **Advanced Key Points** (5 coaching cues with biomechanical insights)
+12. **Scientific Reference** (3-4 peer-reviewed studies with EMG data if available, include DOI or URL)
+13. **Sports Tags** (10-12 applicable sports)
+
+**Exercises to Research (Batch 3: Kettlebell, Suspension, Machine):**
+
+1. **Kettlebell Row (Double Arm)** - Bent-over row with two kettlebells
+2. **Kettlebell Row (Single Arm)** - Bent-over row with one kettlebell
+3. **Machine Row** - Seated machine row (horizontal pulling)
+4. **Suspended Row** - TRX/suspension trainer inverted row (bodyweight pulling)
+5. **Suspended Reverse Mountain Climbers** - TRX/suspension trainer core exercise (feet in straps, reverse mountain climber movement)
+6. **Conditioning Ball Reverse Jack Knife** - Stability ball exercise (pike/knee tuck on ball)
+
+**Research Requirements:**
+- Focus on peer-reviewed scientific studies from 2000-2024
+- Include EMG (electromyography) data showing muscle activation patterns
+- Include DOI links or URLs for all references
+- For kettlebell exercises, include research comparing kettlebell vs dumbbell/barbell variations
+- For suspension training (TRX), include core stability and muscle activation research
+- For stability ball exercises, include core activation and balance research
+
+**Format as a structured markdown document with each exercise clearly separated.**
+
+---
+
+## RESEARCH GUIDELINES FOR ALL BATCHES
+
+### Primary Research Sources:
+- PubMed / PMC (pmc.ncbi.nlm.nih.gov)
+- Google Scholar (scholar.google.com)
+- Journal of Strength and Conditioning Research
+- Medicine & Science in Sports & Exercise
+- European Journal of Applied Physiology
+- Sports Biomechanics
+- International Journal of Sports Physiology and Performance
+
+### Key Search Terms by Exercise Type:
+
+**Olympic Lifts:**
+- "power clean EMG muscle activation"
+- "clean and jerk biomechanics"
+- "hang clean training effects"
+- "snatch power output"
+- "Olympic weightlifting technique"
+
+**Plyometrics (already completed):**
+- "box jump landing mechanics"
+- "broad jump horizontal power"
+- "squat jump vertical power output"
+
+**Conditioning:**
+- "kettlebell swing hip extension"
+- "prowler push metabolic demand"
+- "thruster full body exercise"
+
+**Suspension Training:**
+- "TRX row muscle activation"
+- "suspension training core stability"
+- "inverted row EMG"
+
+**Stability Ball:**
+- "stability ball core exercises"
+- "swiss ball reverse jack knife"
+- "exercise ball abdominal activation"
+
+### Data Points to Capture:
+
+1. **Muscle Activation (EMG):**
+   - Primary muscles with % MVIC (Maximum Voluntary Isometric Contraction)
+   - Secondary muscles with activation patterns
+   - Comparison to similar exercises
+
+2. **Biomechanics:**
+   - Joint angles and movement patterns
+   - Force production and power output
+   - Velocity and acceleration data
+
+3. **Training Effects:**
+   - Strength gains (% improvement)
+   - Power development
+   - Hypertrophy outcomes
+   - Metabolic demand (VO2, heart rate, lactate)
+
+4. **Injury Prevention:**
+   - Common technique errors
+   - Landing mechanics (for plyometrics)
+   - Joint stress and safety considerations
+
+### Reference Format:
+```
+Author(s) (Year). Title. Journal Volume(Issue):Pages. DOI or URL
+```
+
+**Example:**
+```
+Schoenfeld BJ et al. (2014). Effects of different volume-equated resistance training loading strategies. J Strength Cond Res 28(10):2909-2918. https://doi.org/10.1519/JSC.0000000000000480
+```
+
+---
+
+## OUTPUT FORMAT FOR EACH EXERCISE
+
+Use this exact structure for consistency with existing database:
+
+```markdown
+### [Exercise Name]
+
+**Primary Muscles:** [Latin names, comma-separated]
+**Secondary Muscles:** [Latin names, comma-separated]
+**Type:** [Compound or Isolation]
+**Equipment:** [Specific equipment]
+**Level:** [Beginner/Intermediate/Advanced]
+**Body Region:** [Upper/Lower/Core]
+**Movement:** [Push/Pull/Static/Explosive]
+**Modality:** [Free Weight/Cables/Fixed Resistance/Bodyweight/Machine]
+
+**Steps for Beginners:**
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+4. [Step 4]
+5. [Step 5]
+6. [Step 6]
+7. [Step 7]
+
+**Advanced Key Points:**
+1. [Key point 1 with biomechanical insight]
+2. [Key point 2 with biomechanical insight]
+3. [Key point 3 with biomechanical insight]
+4. [Key point 4 with biomechanical insight]
+5. [Key point 5 with biomechanical insight]
+
+**Scientific References:**
+1. [Reference 1 with DOI/URL]
+2. [Reference 2 with DOI/URL]
+3. [Reference 3 with DOI/URL]
+4. [Reference 4 with DOI/URL]
+
+**Sports Tags:** [Sport 1, Sport 2, Sport 3, Sport 4, Sport 5, Sport 6, Sport 7, Sport 8, Sport 9, Sport 10, Sport 11, Sport 12]
+
+---
+```
+
+---
+
+## SAVE FILES AS:
+
+- **Batch 2:** `batch_supplementary_olympic_lifts_7_exercises_research.md`
+- **Batch 3:** `batch_supplementary_kettlebell_suspension_6_exercises_research.md`
+
+These will combine with the already-completed `batch_supplementary_6_exercises_research.md` (Ab-Cycle, Box Jumps, Broad Jumps, Squat Jumps, Superman, Superman-Hold) to give us all 19 exercises.
+
+---
+
+## QUALITY CHECKLIST:
+
+For each exercise, verify:
+- ✅ 3-4 peer-reviewed scientific references with DOIs/URLs
+- ✅ EMG data included (% MVIC or relative activation)
+- ✅ 5-7 beginner steps (clear, progressive)
+- ✅ 5 advanced key points (biomechanical insights, not just tips)
+- ✅ 10-12 sports tags (specific sports, not just "general fitness")
+- ✅ Latin muscle names (e.g., "Gluteus Maximus" not "glutes")
+- ✅ Specific equipment listed (e.g., "Barbell, Bumper Plates, Lifting Platform" not just "Barbell")
+
+---
+
+## EXPECTED RESEARCH TIME:
+
+- **Batch 2 (Olympic Lifts):** 3-4 hours (complex movements, extensive literature)
+- **Batch 3 (Kettlebell/Suspension):** 2-3 hours (moderate complexity)
+- **Total Weekend Research:** 5-7 hours
+
+---
+
+## READY FOR TUESDAY SESSION:
+
+Once both batches are researched and saved, we'll have:
+- **Batch 1:** 6 exercises ✅ COMPLETE (Ab-Cycle, Box Jumps, Broad Jumps, Squat Jumps, Superman, Superman-Hold)
+- **Batch 2:** 7 exercises (Olympic lifts & conditioning) - WEEKEND RESEARCH
+- **Batch 3:** 6 exercises (Kettlebell, suspension, machine) - WEEKEND RESEARCH
+- **TOTAL:** 19 exercises ready for database integration
+
+Tuesday session will focus on:
+1. Integrating all 19 exercises into database v3
+2. Adding enhanced filtering columns
+3. Adding video link columns
+4. Regenerating complete database v3.1
+
+---
+
+**Good luck with the research! See you Tuesday with all 19 exercises ready to integrate.** 🎯

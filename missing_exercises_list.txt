@@ -1,0 +1,181 @@
+# Missing Exercises from Origym CSV
+# Total missing: 85
+# Generated: 2025-12-04
+
+## HIGH PRIORITY - Definitely Missing (19 exercises)
+## These exercises are in Origym but NOT in our research database
+
+Ab-Cycle
+  # Closest match: 'Cable Curl' (56%)
+Box Jumps
+  # Closest match: 'Step-Ups' (47%)
+Broard Jumps
+  # Closest match: 'Arnold Press' (50%)
+Clean
+  # Closest match: 'Cable Fly' (43%)
+Clean and Jerk
+  # Closest match: 'Incline Dumbbell Curl' (48%)
+Conditioning Ball Reverse Jack Knife
+  # Closest match: 'Dumbbell Reverse Lunge' (50%)
+Hang Clean
+  # Closest match: 'Hanging Leg Raise' (59%)
+Kettle Bell Swings
+  # Closest match: 'Seated Medicine Ball Twist' (50%)
+Kettlebell Row (double)
+  # Closest match: 'Seated Row (Machine)' (50%)
+Kettlebell Row (single)
+  # Closest match: 'Neck Extension (Lying Plate)' (51%)
+Machine-Row
+  # Closest match: 'Machine Dips' (59%)
+Prowler
+  # Closest match: 'Wrist Roller' (53%)
+Snatch
+  # Closest match: 'Cross Crunch' (44%)
+Squat Jumps
+  # Closest match: 'Barbell Squat' (53%)
+Superman
+  # Closest match: 'Side Plank' (44%)
+Superman-Hold
+  # Closest match: 'Spider Curl' (50%)
+Suspended Reverse Mountain Climbers
+  # Closest match: 'Reverse Incline Dumbbell Row' (53%)
+Suspended Row
+  # Closest match: 'Seated Cable Row' (55%)
+Thruster
+  # Closest match: 'Hip Thrust (Barbell)' (52%)
+
+## MEDIUM PRIORITY - Possibly Missing (66 exercises)
+## These might be variations or similar exercises we already have
+
+Alternating-Leg-Extension
+  # Similar to: 'Leg Extension' (68%)
+Alternating-Superman
+  # Similar to: 'Alternating Dumbbell Curl' (72%)
+Back Extension
+  # Similar to: 'Band Neck Extension' (85%)
+Back-Raise
+  # Similar to: 'Barbell Calf Raise' (70%)
+Barbell-Shoulder-Press
+  # Similar to: 'Barbell Overhead Press' (71%)
+Bent-Over-Barbell-Row
+  # Similar to: 'Barbell Bent-Over Row' (81%)
+Bent-Over-Cable-Rear-Delt-Raise
+  # Similar to: 'Kneeling Single-Arm Cable Rear Delt Raise' (75%)
+Bent-Over-Dumbbell-Rear-Delt-Raise
+  # Similar to: 'Seated Dumbbell Rear Delt Raise' (83%)
+Bent-Over-Dumbbell-Row
+  # Similar to: 'Bent-Over Hammer Dumbbell Row' (82%)
+Bent-Over-Long-Barbell-Row
+  # Similar to: 'Bent-Over Single-Arm Long Barbell Row' (79%)
+Bottom-Top-Full-Curls
+  # Similar to: 'Bottom/Top/Full Curls (Partial Range)' (66%)
+Bulgarian Deadlift
+  # Similar to: 'Bulgarian Split Squat' (67%)
+Cable Hip Extensions
+  # Similar to: 'LOW CABLE TRICEPS EXTENSION' (77%)
+Cable-Front-Raise
+  # Similar to: 'Front Raise' (79%)
+Chest-Press
+  # Similar to: 'Machine Chest Press' (81%)
+Clean and Press
+  # Similar to: 'Incline Dumbbell Press' (71%)
+Crunch
+  # Similar to: 'Cross Crunch' (67%)
+Crunch-toe-touch
+  # Similar to: 'Heel Touch' (62%)
+Curl and Press
+  # Similar to: 'Landmine Press' (71%)
+Dips
+  # Similar to: 'Machine Dips' (62%)
+Dumbbell-Alternating-Shoulder-Press
+  # Similar to: 'Alternating Dumbbell Bench Press' (69%)
+Dumbbell-Shoulder-Press
+  # Similar to: 'Barbell Overhead Press' (65%)
+Dumbbell-Twisting-Shoulder-Press
+  # Similar to: 'Twisting Dumbbell Bench Press' (65%)
+Elevated-Hip-Lift  (bridge)
+  # Similar to: 'Elevated Hip Lift' (79%)
+Farmers walk
+  # Similar to: 'Farmer's Walk (Heavy)' (73%)
+Front-Plank
+  # Similar to: 'Front Plank (from toes)' (65%)
+Glute Bridge
+  # Similar to: 'Neck Bridge' (70%)
+Glute Kickbacks
+  # Similar to: 'Dumbbell Kickback' (69%)
+Hex Bar Deadlift
+  # Similar to: 'Deadlift' (67%)
+Hex Deadlift
+  # Similar to: 'Deadlift' (80%)
+Hip Thrust
+  # Similar to: 'Hip Thrust (Barbell)' (80%)
+Hyper-extension
+  # Similar to: 'Leg Extension' (79%)
+Inverted-Pull-Up
+  # Similar to: 'Assisted Pull-Up' (75%)
+Lat-Pulldown
+  # Similar to: 'Lat Pulldown (Front)' (75%)
+Lunge and Press
+  # Similar to: 'Incline Dumbbell Press' (71%)
+Machine-Curl
+  # Similar to: 'Machine Curl (Biceps)' (67%)
+Machine-Shoulder-Press
+  # Similar to: 'Machine Chest Press' (69%)
+Muscle Ups
+  # Similar to: 'Step-Ups' (67%)
+Pistol Squats
+  # Similar to: 'Split Squat' (75%)
+Press Up
+  # Similar to: 'Pike Push-Up' (60%)
+Pull-Up
+  # Similar to: 'Towel Pull-Ups' (67%)
+Push Press
+  # Similar to: 'Pallof Press' (64%)
+Push-Up
+  # Similar to: 'Dumbbell Push-Up' (82%)
+Quadruped-Alternating-Superman
+  # Similar to: 'Seated Alternating Curl' (68%)
+Reverse-Grip-Pull-Up
+  # Similar to: 'Reverse-Grip Pull-Up (Chin-Up)' (80%)
+Rope Pull Throughs
+  # Similar to: 'Cable Pull-Through' (78%)
+Seated Row
+  # Similar to: 'Seated Cable Row' (77%)
+Seated-Row (neutral grip)
+  # Similar to: 'Seated Row (Machine)' (67%)
+Seated-Row (pronated grip)
+  # Similar to: 'Bent-Over Barbell Row (Pronated Grip)' (79%)
+Seated-Row (supinated grip)
+  # Similar to: 'Bent-Over Barbell Row (Pronated Grip)' (71%)
+Shoulder Press
+  # Similar to: 'Leg Press' (70%)
+Single leg deadlift
+  # Similar to: 'Single-Leg Romanian Deadlift' (81%)
+Single-Arm-Dumbbell-Shoulder-Press
+  # Similar to: 'Single-Arm Dumbbell Bench Press' (79%)
+Single-Leg-Extension
+  # Similar to: 'Leg Extension' (79%)
+Sit up
+  # Similar to: 'Step-Up' (77%)
+Sit-Up
+  # Similar to: 'Step-Up' (77%)
+Smith-Machine-Shoulder-Press
+  # Similar to: 'Smith Machine Bench Press' (77%)
+Split Lunges
+  # Similar to: 'Walking Lunges' (69%)
+Squat and press
+  # Similar to: 'Seated Dumbbell Press' (73%)
+Squats
+  # Similar to: 'Barbell Squat' (71%)
+Straight-arm-pull-down
+  # Similar to: 'Single-Arm Lat Pulldown' (71%)
+Sumo Squat
+  # Similar to: 'Front Squat' (67%)
+Tricep Dip
+  # Similar to: 'TRICEP PUSHDOWN' (64%)
+V-Bar-Pull-Up
+  # Similar to: 'V-Bar Pull-Up (Neutral Grip)' (63%)
+V-Bar-Tricep-Pushdown
+  # Similar to: 'TRICEP PUSHDOWN' (83%)
+Wide Leg Press
+  # Similar to: 'Leg Press' (78%)
