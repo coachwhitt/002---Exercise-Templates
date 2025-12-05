@@ -1,0 +1,59 @@
+# Functional Group Mappings for 19 New Exercises
+
+Ab-Cycle (Bicycle Crunches)
+  Groups: 
+
+Box Jumps
+  Groups: Full_Body_Movements; Quads_Hamstrings_Glutes; Legs_Quadriceps; Gluteals
+
+Broad Jumps (Standing Long Jump)
+  Groups: Full_Body_Movements; Quads_Hamstrings_Glutes; Legs_Quadriceps; Gluteals
+
+Squat Jumps
+  Groups: Full_Body_Movements; Quads_Hamstrings_Glutes; Legs_Quadriceps
+
+Superman
+  Groups: Lower_Back_Erector_Spinae
+
+Superman Hold (Isometric Back Extension Hold)
+  Groups: Lower_Back_Erector_Spinae
+
+Clean (Power Clean)
+  Groups: Lower_Back_Erector_Spinae; Back_Latissimus_Dorsi; Gluteals; Arms_Biceps; Full_Body_Movements; Legs_Quadriceps; Shoulders_Delts_and_Traps; Quads_Hamstrings_Glutes; Legs_Hamstrings; Trapezius_and_Rhomboids
+
+Clean and Jerk
+  Groups: Lower_Back_Erector_Spinae; Back_Latissimus_Dorsi; Arms_Triceps; Gluteals; Full_Body_Movements; Quads_Hamstrings_Glutes; Legs_Quadriceps; Shoulders_Delts_and_Traps; Trapezius_and_Rhomboids
+
+Hang Clean
+  Groups: Lower_Back_Erector_Spinae; Back_Latissimus_Dorsi; Gluteals; Arms_Biceps; Full_Body_Movements; Legs_Quadriceps; Shoulders_Delts_and_Traps; Quads_Hamstrings_Glutes; Legs_Hamstrings; Trapezius_and_Rhomboids
+
+Snatch (Power Snatch)
+  Groups: Lower_Back_Erector_Spinae; Back_Latissimus_Dorsi; Gluteals; Full_Body_Movements; Quads_Hamstrings_Glutes; Legs_Quadriceps; Shoulders_Delts_and_Traps; Legs_Hamstrings; Trapezius_and_Rhomboids
+
+Thruster
+  Groups: Arms_Triceps; Gluteals; Full_Body_Movements; Quads_Hamstrings_Glutes; Legs_Quadriceps; Shoulders_Delts_and_Traps
+
+Kettlebell Swings
+  Groups: Full_Body_Movements; Lower_Back_Erector_Spinae; Legs_Hamstrings; Gluteals
+
+Prowler Push
+  Groups: Back_Latissimus_Dorsi; Gluteals; Full_Body_Movements; Quads_Hamstrings_Glutes; Legs_Quadriceps; Calves_Soleus; Calves_Gastrocnemius
+
+Kettlebell Row (Double Arm)
+  Groups: Back_Latissimus_Dorsi; Trapezius_and_Rhomboids
+
+Kettlebell Row (Single Arm)
+  Groups: Back_Latissimus_Dorsi; Trapezius_and_Rhomboids; Abdominal_Obliques
+
+Machine Row
+  Groups: Back_Latissimus_Dorsi; Trapezius_and_Rhomboids
+
+Suspended Row
+  Groups: Back_Latissimus_Dorsi; Trapezius_and_Rhomboids
+
+Suspended Reverse Mountain Climbers
+  Groups: Full_Core; Total_Core; Abdominal_Obliques; Abdominal_Lower
+
+Conditioning Ball Reverse Jack Knife
+  Groups: Total_Core; Full_Core; Legs_Quadriceps; Chest_Pectoralis; Abdominal_Lower
+
