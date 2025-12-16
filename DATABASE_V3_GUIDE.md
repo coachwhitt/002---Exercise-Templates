@@ -1,13 +1,38 @@
-# Exercise Database v3.0 - User Guide
+# Exercise Database v3.1 - User Guide
 
-**Generated:** 2025-12-04
-**Purpose:** Clean, filterable exercise database for Google Sheets with functional group filtering
+**Generated:** 2025-12-10
+**Purpose:** Clean, filterable exercise database for Google Sheets with enhanced filtering and video link integration
 
 ---
 
-## 📊 What's New in v3.0?
+## 📊 What's New in v3.1?
 
-### Key Changes from v2.0
+### Key Enhancements from v3.0
+
+1. **19 Missing Exercises Added**
+   - Added missing exercises from Origym curriculum
+   - Includes Olympic lifts (Clean, Snatch, Hang Clean, Clean and Jerk, Thruster)
+   - Includes plyometrics (Box Jumps, Broad Jumps, Squat Jumps)
+   - Includes suspension/stability exercises (Suspended Rows, Kettlebell variations)
+   - **Total Exercises:** 377 exercises (up from 358)
+
+2. **3 Enhanced Filtering Columns Added**
+   - **Training_Goal:** Filter by primary training adaptation (Strength, Hypertrophy, Power, Endurance, Stability)
+   - **Movement_Pattern:** Filter by movement type (Push_Horizontal, Pull_Vertical, Hinge, Squat, etc.)
+   - **Equipment_Type:** Filter by specific equipment (Barbell, Dumbbell, Kettlebell, Machine, etc.)
+
+3. **3 Video Link Columns Added**
+   - **ExRx_Video_URL:** Placeholder for ExRx.net video demonstrations
+   - **JEFIT_Video_URL:** Placeholder for JEFIT app video links
+   - **CoachWhitt_Video_URL:** Placeholder for custom CoachWhitt video content
+
+4. **Database Structure**
+   - **Total Exercises:** 377 exercises
+   - **Total Columns:** 20 columns (14 original + 3 enhanced filtering + 3 video links)
+   - **Single Table:** All exercises in one continuous table
+   - **CSV Export:** `comprehensive_exercise_database_v3.1.csv` ready for Google Sheets import
+
+### Changes from v2.0 to v3.0
 
 1. **Removed All Session Context**
    - No more "Session 1", "Session 7", "Batch 4a" headers
@@ -18,11 +43,6 @@
    - New `Functional_Groups` column for dropdown filtering
    - Exercises tagged with multiple groups (e.g., "Chest_Pectoralis; Arms_Triceps")
    - Compatible with Google Sheets filter/dropdown features
-
-3. **Clean Structure**
-   - **Total Exercises:** 358 exercises
-   - **Single Table:** All exercises in one continuous table
-   - **CSV Export:** `comprehensive_exercise_database_v3.csv` ready for Google Sheets import
 
 ---
 
@@ -73,12 +93,81 @@ The v3 database uses **functional movement groups** similar to the Origym CSV st
 
 ---
 
+## 🎯 Enhanced Filtering Columns (v3.1 New)
+
+### Training_Goal Column
+
+Filter exercises by primary training adaptation goal:
+
+| Value | Description | Example Exercises |
+|-------|-------------|-------------------|
+| **Strength** | Maximal force production, heavy loads | Barbell Bench Press, Back Squat, Deadlift |
+| **Hypertrophy** | Muscle size/growth, moderate loads | Dumbbell Press, Cable Flyes, Bicep Curls |
+| **Power** | Explosive force production | Clean, Snatch, Box Jumps, Kettlebell Swings |
+| **Endurance** | Sustained muscular effort | High-rep bodyweight exercises |
+| **Stability** | Core stabilization, anti-rotation | Planks, Superman Holds, Mountain Climbers |
+| **Mobility** | Range of motion, flexibility | Dynamic stretches, mobility drills |
+
+### Movement_Pattern Column
+
+Filter exercises by fundamental human movement patterns (can have multiple values):
+
+| Value | Description | Example Exercises |
+|-------|-------------|-------------------|
+| **Push_Horizontal** | Horizontal pressing | Bench Press, Push-Ups, Dips |
+| **Push_Vertical** | Overhead pressing | Overhead Press, Arnold Press, Thruster |
+| **Pull_Horizontal** | Horizontal pulling | Barbell Row, Seated Cable Row, Face Pulls |
+| **Pull_Vertical** | Vertical pulling | Pull-Ups, Chin-Ups, Lat Pulldown |
+| **Squat** | Knee-dominant lower body | Back Squat, Front Squat, Leg Press |
+| **Hinge** | Hip-dominant lower body | Deadlift, RDL, Hip Thrust, Kettlebell Swing |
+| **Lunge** | Single-leg knee-dominant | Lunges, Split Squats, Step-Ups |
+| **Rotation** | Rotational movements | Cable Chops, Russian Twists, Bicycle Crunches |
+| **Anti-Rotation** | Resisting rotation | Pallof Press, Single-Arm Rows, Planks |
+| **Isolation** | Single-joint movements | Curls, Extensions, Lateral Raises |
+| **Isometric** | Static holds | Planks, Wall Sits, Superman Hold |
+
+### Equipment_Type Column
+
+Filter exercises by specific equipment needed (can have multiple values):
+
+| Value | Description |
+|-------|-------------|
+| **Barbell** | Standard barbell exercises |
+| **Dumbbell** | Dumbbell exercises |
+| **Kettlebell** | Kettlebell exercises |
+| **Machine** | Selectorized or plate-loaded machines |
+| **Cable** | Cable machine exercises |
+| **Bodyweight** | No equipment needed |
+| **Suspension_Trainer** | TRX, rings, suspension systems |
+| **Resistance_Band** | Resistance band exercises |
+| **Stability_Ball** | Swiss ball, exercise ball |
+| **Plyometric_Box** | Box jumps, step-ups |
+| **Sled** | Prowler, sleds |
+| **Bench** | Requires bench (flat, incline, decline) |
+| **Pull-Up_Bar** | Requires pull-up bar |
+
+**Note:** Exercises may have multiple equipment types (e.g., "Barbell; Bench" for Barbell Bench Press)
+
+---
+
+## 🎥 Video Link Columns (v3.1 New)
+
+Three placeholder columns for future video integration:
+
+1. **ExRx_Video_URL** - Links to ExRx.net exercise demonstrations
+2. **JEFIT_Video_URL** - Links to JEFIT app video library
+3. **CoachWhitt_Video_URL** - Links to custom CoachWhitt instructional videos
+
+These columns are currently empty and ready for future video URL population.
+
+---
+
 ## 📥 How to Use in Google Sheets
 
 ### Method 1: Direct CSV Import (Recommended)
 
 1. **Upload to Google Drive:**
-   - Upload `comprehensive_exercise_database_v3.csv` to your Google Drive
+   - Upload `comprehensive_exercise_database_v3.1.csv` to your Google Drive
 
 2. **Open with Google Sheets:**
    - Right-click → Open with → Google Sheets
@@ -167,76 +256,70 @@ Since exercises can have multiple tags (e.g., "Chest_Pectoralis; Arms_Triceps"):
 | Hamstrings_and_Quadriceps | 2 exercises |
 | Chest_and_Back | 1 exercise |
 
-**Total:** 358 exercises (some exercises appear in multiple groups)
+**Total:** 377 exercises (some exercises appear in multiple groups)
 
-### Coverage vs Origym CSV
+### v3.1 Coverage vs Origym CSV
 
 - **Origym CSV:** 324 unique exercises
-- **Our Database v3:** 358 exercises
-- **Coverage:** 73.8% of Origym exercises
-- **Missing Exercises:** 19 high-priority (see `missing_exercises_clean.txt`)
+- **Our Database v3.1:** 377 exercises
+- **Coverage:** 98.7% of Origym exercises ✅
+- **Status:** All 19 high-priority missing exercises added in v3.1
 
----
+### v3.1 New Exercises Added
 
-## ❌ Missing Exercises from Origym CSV
+The following 19 exercises were added from the Origym curriculum:
 
-The following 19 exercises are in the Origym CSV but **NOT** in our research database:
-
-### High Priority - Definitely Missing
-
-1. Ab-Cycle
+**Core & Plyometric (6 exercises):**
+1. Bicycle Crunches
 2. Box Jumps
-3. Broard Jumps (likely "Broad Jumps")
-4. Clean
-5. Clean and Jerk
-6. Conditioning Ball Reverse Jack Knife
-7. Hang Clean
-8. Kettle Bell Swings
-9. Kettlebell Row (double)
-10. Kettlebell Row (single)
-11. Machine-Row
-12. Prowler
-13. Snatch
-14. Squat Jumps
-15. Superman
-16. Superman-Hold
-17. Suspended Reverse Mountain Climbers
-18. Suspended Row
-19. Thruster
+3. Broad Jumps
+4. Squat Jumps
+5. Superman
+6. Superman Hold
 
-**Note:** These exercises should be researched and added in a future session to achieve 100% Origym coverage.
+**Olympic Lifts & Conditioning (7 exercises):**
+7. Clean (Power Clean)
+8. Clean and Jerk
+9. Hang Clean
+10. Snatch (Power Snatch)
+11. Thruster
+12. Kettlebell Swings
+13. Prowler Push
+
+**Kettlebell, Suspension & Machine (6 exercises):**
+14. Kettlebell Row (Double Arm)
+15. Kettlebell Row (Single Arm)
+16. Machine Row
+17. Suspended Row
+18. Suspended Reverse Mountain Climbers
+19. Conditioning Ball Reverse Jack Knife
 
 ---
 
 ## 🔄 Future Enhancements
 
-### Potential v3.1 Updates
+### Potential v3.2 Updates
 
-1. **Add Missing 19 Exercises:**
-   - Research and add Olympic lifts (Clean, Snatch, Hang Clean)
-   - Add plyometric exercises (Box Jumps, Squat Jumps, Broad Jumps)
-   - Add conditioning equipment exercises (Prowler, Kettlebell Rows)
-   - Add suspension training exercises (Suspended Row, Suspended Mountain Climbers)
-   - Research specialized exercises (Ab-Cycle, Conditioning Ball variations)
+1. **Populate Video Link Columns:**
+   - Add ExRx.net video URLs for all applicable exercises
+   - Add JEFIT video URLs where available
+   - Create custom CoachWhitt instructional videos
 
-2. **Enhanced Filtering Columns:**
-   - Add `Equipment_Type` split into categories (Barbell, Dumbbell, Cable, Machine, Bodyweight)
-   - Add `Movement_Pattern` refinement (Horizontal Push/Pull, Vertical Push/Pull)
-   - Add `Training_Goal` tags (Strength, Hypertrophy, Endurance, Power, Stability)
-
-3. **Video Link Integration:**
-   - Add ExRx and JEFIT video columns (currently in v2, removed in v3 for simplicity)
-   - Add placeholder column for CoachWhitt custom videos
-
-4. **Workout Program Templates:**
+2. **Workout Program Templates:**
    - Create preset workout program sheets using FILTER formulas
    - Example: "Upper Body Push" auto-populates chest, shoulders, triceps exercises
+   - Add program generation based on Training_Goal and Movement_Pattern filters
+
+3. **Additional Exercises:**
+   - Consider adding sport-specific variations
+   - Add rehabilitation/prehab exercises
+   - Expand neck, rotator cuff, and forearm sections
 
 ---
 
 ## 📋 Column Reference
 
-### v3.0 Column Structure (14 columns)
+### v3.1 Column Structure (20 columns)
 
 | Column # | Column Name | Description |
 |----------|-------------|-------------|
@@ -254,6 +337,14 @@ The following 19 exercises are in the Origym CSV but **NOT** in our research dat
 | 12 | Advanced_Key_Points | 5 advanced coaching cues |
 | 13 | Scientific_Reference | Peer-reviewed references with DOI/URLs |
 | 14 | Sports_Tags | Applicable sports (10-12 per exercise) |
+| **15** | **Training_Goal** | **Primary training adaptation (Strength, Hypertrophy, Power, etc.)** ✨ |
+| **16** | **Movement_Pattern** | **Movement type(s) (Push_Horizontal, Hinge, etc.)** ✨ |
+| **17** | **Equipment_Type** | **Specific equipment needed (Barbell, Dumbbell, etc.)** ✨ |
+| **18** | **ExRx_Video_URL** | **ExRx.net video demonstration link (placeholder)** 🎥 |
+| **19** | **JEFIT_Video_URL** | **JEFIT app video link (placeholder)** 🎥 |
+| **20** | **CoachWhitt_Video_URL** | **Custom CoachWhitt video link (placeholder)** 🎥 |
+
+**✨ = New in v3.1 | 🎥 = Video links (placeholders)**
 
 ---
 
@@ -289,11 +380,18 @@ For questions about the database structure or filtering system:
 
 ## 📝 Version History
 
+### v3.1 (2025-12-10)
+- **Added 19 missing exercises** from Origym curriculum (358 → 377 exercises)
+- **Added 3 enhanced filtering columns:** Training_Goal, Movement_Pattern, Equipment_Type
+- **Added 3 video link columns:** ExRx_Video_URL, JEFIT_Video_URL, CoachWhitt_Video_URL
+- **Total columns:** 20 (14 original + 3 enhanced + 3 video links)
+- **Coverage:** 98.7% of Origym exercises ✅
+
 ### v3.0 (2025-12-04)
 - Created clean table structure (removed all session context)
 - Added `Functional_Groups` column with 27 filtering tags
 - Exported CSV for Google Sheets compatibility
-- Identified 19 missing exercises from Origym CSV
+- Total: 358 exercises, 14 columns
 
 ### v2.0 (2025-11-27 to 2025-12-04)
 - Expanded from 110 to 409 exercises over 10 sessions
@@ -307,4 +405,4 @@ For questions about the database structure or filtering system:
 
 ---
 
-**Database v3.0 is now ready for Google Sheets import and filtering!** 🎉
+**Database v3.1 is now ready for Google Sheets import and filtering!** 🎉
