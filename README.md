@@ -14,12 +14,13 @@ Run this script to sync all changes to the GitHub repository after each session.
 
 ## Project Status
 
-**Current Phase:** Phase 2c - Adobe Illustrator Card Design (READY TO BEGIN)
-**Database Status:** v3.1 PRODUCTION READY VERIFIED (377 exercises, 20 columns, 100% Origym coverage)
+**Current Phase:** Phase 2c - Adobe Illustrator Card Design WITH SPORT-SPECIFIC TAGGING (READY TO BEGIN)
+**Database Status:** v3.1.1 PRODUCTION READY (377 exercises, 20 columns, 100% Origym coverage, 160 skiing-tagged)
 **Phase 1 Status:** COMPLETE - 409 exercises researched, 100% Origym systematic coverage (270/270)
-**Phase 1 Enhancement:** COMPLETE - Database v3.0 restructure (358 unique), v3.1 finalization (377 exercises)
+**Phase 1 Enhancement:** COMPLETE - Database v3.0 restructure (358 unique), v3.1 finalization (377 exercises), v3.1.1 sport-specific tagging (skiing complete)
 **Origym.csv Coverage:** 100% COMPLETE (270/270 exercises)
-**Last Updated:** 2025-12-16 (Session 19 - Database v3.1 Production Ready Verification)
+**Sport-Specific Tagging:** Skiing COMPLETE (160 exercises, 42.4% coverage); framework established for Running, CrossFit, etc.
+**Last Updated:** 2026-01-02 (Session 20 - Database v3.1.1 Skiing Enhancement & Sport-Specific Tagging)
 
 ## What This Project Is
 
@@ -44,12 +45,14 @@ This repository contains the foundational systems for creating professional, sci
 | Metric | Status |
 |--------|--------|
 | **PHASE 1 CORE STATUS** | **COMPLETE (107.6%)** |
-| **PHASE 1 ENHANCEMENT STATUS** | **COMPLETE (v3.1 VERIFIED)** |
+| **PHASE 1 ENHANCEMENT STATUS** | **COMPLETE (v3.1.1 WITH SPORT TAGS)** |
 | **PHASE 2c READINESS** | **READY TO BEGIN** |
 | v2 Database Exercises | 409 total (includes duplicates) |
 | v3.0 Database Exercises | 358 verified unique exercises |
 | v3.1 Database Exercises | **377 VERIFIED (20 columns, 100% Origym)** |
-| v3.1 Functional Groups | 27 multi-tag system (14 primary, 7 core, 5 combination) |
+| v3.1.1 Database Exercises | **377 VERIFIED (20 columns, 160 skiing-tagged)** |
+| v3.1.1 Skiing Coverage | **160 exercises (42.4% sports-tagged for skiing)** |
+| v3.1.1 Skiing Categories | 9 biomechanical demands (quads, core, glutes, hamstrings, back, adductors, calves, upper pull, plyometrics) |
 | Origym.csv Coverage | **100% COMPLETE (270/270 exercises)** |
 | Video Link Data | Columns 18-20 present; 33 entries in v2 (8.8% coverage) |
 | Session 17 Added | 24 exercises (Batch 10: Shoulders/Triceps/Back/Legs/Core) |
@@ -78,6 +81,10 @@ This repository contains the foundational systems for creating professional, sci
 
 ### Core Files
 
+- **`comprehensive_exercise_database_v3.1.1.md`** - PRODUCTION DATABASE with 377 exercises + 160 skiing sports tags (CURRENT)
+- **`comprehensive_exercise_database_v3.1.1.csv`** - PRODUCTION CSV with 377 exercises + 160 skiing sports tags (Google Sheets ready)
+- **`comprehensive_exercise_database_v3.1.md`** - Baseline v3.1 with 377 exercises (100% Origym, no sport tags)
+- **`comprehensive_exercise_database_v3.1.csv`** - Baseline v3.1 CSV (100% Origym, no sport tags)
 - **`comprehensive_exercise_database_v2.md`** - Main exercise database with 409 documented exercises (FINAL - 100% Origym Coverage)
 - **`exercise_database_complete_v2.csv`** - CSV export for Google Sheets and automation
 - **`Origym.csv`** - Progress tracker for all 270 Origym exercises (270 COMPLETE - 100%)
@@ -87,12 +94,16 @@ This repository contains the foundational systems for creating professional, sci
 - **`batch_8_shoulder_triceps_exercises_research.md`** - Research file for Batch 8 (25 exercises, ~25,000 words)
 - **`batch_5_chest_hamstring_quad_exercises_research.md`** - Research file for Batch 5 (25 exercises, ~28,000 words)
 - **`batch_4_chest_exercises_research.md`** - Research file for Batch 4 (25 exercises, ~17,500 words)
+- **`skiing_exercises_analysis.md`** - Comprehensive skiing biomechanical analysis (25+ sources, 9 categories, training periodization)
+- **`DATABASE_V3.1.1_CHANGELOG.md`** - Version comparison v3.1 → v3.1.1, usage guide, skiing sports tags documentation
 - **`adobe_illustrator_prototype_guide.md`** - Complete A4 card design specifications (v2.0)
 - **`exercise_card_specification.md`** - Card layout, structure, and design system
 
 ### Documentation
 
 - **Session Summaries:**
+  - `020 - session-summary-2026-01-02.md` - Session 20: Sport-Specific Tagging (Skiing Classification - 160 tagged exercises, v3.1.1 PRODUCTION READY)
+  - `019 - session-summary-2025-12-16.md` - Session 19: Database v3.1 Production Ready Verification (377 exercises, 100% Origym)
   - `017 - session-summary-2025-12-04-session17.md` - Session 17: Batch 10 Supplementary (24 exercises, 100% ORIGYM COVERAGE - PHASE 1 FINAL)
   - `016 - session-summary-2025-12-04.md` - Session 16: Batch 9 FINAL (30 triceps/neck/rotator cuff exercises, PHASE 1 COMPLETE)
   - `015 - session-summary-2025-12-03.md` - Session 15: Batch 8 (25 shoulder/triceps exercises added)
