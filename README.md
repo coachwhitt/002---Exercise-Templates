@@ -14,13 +14,13 @@ Run this script to sync all changes to the GitHub repository after each session.
 
 ## Project Status
 
-**Current Phase:** Phase 2c - Adobe Illustrator Card Design WITH SPORT-SPECIFIC TAGGING (READY TO BEGIN)
-**Database Status:** v3.1.1 PRODUCTION READY (377 exercises, 20 columns, 100% Origym coverage, 160 skiing-tagged)
-**Phase 1 Status:** COMPLETE - 409 exercises researched, 100% Origym systematic coverage (270/270)
-**Phase 1 Enhancement:** COMPLETE - Database v3.0 restructure (358 unique), v3.1 finalization (377 exercises), v3.1.1 sport-specific tagging (skiing complete)
+**Current Phase:** Phase 2c - Adobe Illustrator Card Design (Ready to Begin)
+**Database Status:** v3.2 PRODUCTION READY (421 exercises, 20 columns, 100% Origym coverage + plyometric/HIIT expansion)
+**Phase 1 Status:** COMPLETE - 421 exercises researched, 100% Origym systematic coverage (270/270) + 44 plyometric/HIIT additions
+**Phase 1 Enhancement:** COMPLETE - v3.0 restructure, v3.1 finalization, v3.1.1 skiing tagging, v3.2 plyometric/HIIT expansion
 **Origym.csv Coverage:** 100% COMPLETE (270/270 exercises)
-**Sport-Specific Tagging:** Skiing COMPLETE (160 exercises, 42.4% coverage); framework established for Running, CrossFit, etc.
-**Last Updated:** 2026-01-02 (Session 20 - Database v3.1.1 Skiing Enhancement & Sport-Specific Tagging)
+**Sport-Specific Tagging:** Skiing COMPLETE (160 exercises, 42.4% coverage); framework ready for Running, CrossFit, etc.
+**Last Updated:** 2026-01-04 (Session 21 - Database v3.2 Plyometric/HIIT/Circuit Exercise Integration)
 
 ## What This Project Is
 
@@ -44,22 +44,27 @@ This repository contains the foundational systems for creating professional, sci
 
 | Metric | Status |
 |--------|--------|
-| **PHASE 1 CORE STATUS** | **COMPLETE (107.6%)** |
-| **PHASE 1 ENHANCEMENT STATUS** | **COMPLETE (v3.1.1 WITH SPORT TAGS)** |
+| **PHASE 1 STATUS** | **COMPLETE (110.8%)** |
+| **PHASE 1 ENHANCEMENT STATUS** | **COMPLETE (v3.2 WITH PLYOMETRIC/HIIT EXPANSION)** |
 | **PHASE 2c READINESS** | **READY TO BEGIN** |
 | v2 Database Exercises | 409 total (includes duplicates) |
 | v3.0 Database Exercises | 358 verified unique exercises |
 | v3.1 Database Exercises | **377 VERIFIED (20 columns, 100% Origym)** |
 | v3.1.1 Database Exercises | **377 VERIFIED (20 columns, 160 skiing-tagged)** |
+| **v3.2 Database Exercises** | **421 VERIFIED (20 columns, +44 plyometric/HIIT)** |
+| v3.2 Plyometric/HIIT Coverage | **44 exercises (10.4% of total database)** |
+| v3.2 Plyometric Categories | Lower body (12), Upper body (4), Core/rotational (10), Full-body metabolic (8), Agility (5), Loaded carries (5) |
 | v3.1.1 Skiing Coverage | **160 exercises (42.4% sports-tagged for skiing)** |
 | v3.1.1 Skiing Categories | 9 biomechanical demands (quads, core, glutes, hamstrings, back, adductors, calves, upper pull, plyometrics) |
 | Origym.csv Coverage | **100% COMPLETE (270/270 exercises)** |
-| Video Link Data | Columns 18-20 present; 33 entries in v2 (8.8% coverage) |
+| Video Link Data | Columns 18-20 present; ready for future population |
 | Session 17 Added | 24 exercises (Batch 10: Shoulders/Triceps/Back/Legs/Core) |
 | Session 18 Completed | Database v3.0 restructuring, Origym analysis, 19 missing exercises identified |
 | Session 19 Completed | Database v3.1 verification, data integrity analysis, Phase 2c transition |
+| Session 20 Completed | Database v3.1.1 skiing enhancement, 160 exercises tagged for skiing |
+| **Session 21 Completed** | **Database v3.2 plyometric/HIIT expansion, 44 new exercises, 150+ scientific references** |
 | Muscle Groups Covered | 11+ major groups (complete coverage) |
-| Scientific References | 1,600+ peer-reviewed citations (3-4 per exercise) |
+| Scientific References | **1,750+ peer-reviewed citations (3-4 per exercise)** |
 | Batch 1a (Core/Abs) | 20/20 COMPLETE |
 | Batch 1b (Upper Abs/Back) | 20/20 COMPLETE |
 | Batch 2a (Back Rows) | 20/20 COMPLETE |
@@ -73,20 +78,23 @@ This repository contains the foundational systems for creating professional, sci
 | Batch 8 (Shoulder/Triceps) | 25/25 COMPLETE |
 | Batch 9 (Triceps/Neck/Rotator Cuff) | 30/30 COMPLETE |
 | Batch 10 (Supplementary Shoulders/Triceps/Back/Legs/Core) | 24/24 COMPLETE |
+| **Expansion 1 (Plyometric/HIIT/Circuit)** | **44/44 COMPLETE** |
 | Card Design Specs | COMPLETE (v2.0) |
 | SVG Integration System | COMPLETE (color-coded muscle groups) |
-| Database Quality | 409 clean rows, 16-column structure, 100% Origym coverage |
+| Database Quality | 421 clean rows, 20-column structure, 100% Origym coverage, 100% data integrity |
 
 ## What's Inside
 
 ### Core Files
 
-- **`comprehensive_exercise_database_v3.1.1.md`** - PRODUCTION DATABASE with 377 exercises + 160 skiing sports tags (CURRENT)
-- **`comprehensive_exercise_database_v3.1.1.csv`** - PRODUCTION CSV with 377 exercises + 160 skiing sports tags (Google Sheets ready)
-- **`comprehensive_exercise_database_v3.1.md`** - Baseline v3.1 with 377 exercises (100% Origym, no sport tags)
-- **`comprehensive_exercise_database_v3.1.csv`** - Baseline v3.1 CSV (100% Origym, no sport tags)
-- **`comprehensive_exercise_database_v2.md`** - Main exercise database with 409 documented exercises (FINAL - 100% Origym Coverage)
-- **`exercise_database_complete_v2.csv`** - CSV export for Google Sheets and automation
+- **`comprehensive_exercise_database_v3.2.md`** - PRODUCTION DATABASE with 421 exercises + plyometric/HIIT/circuit expansion (CURRENT)
+- **`comprehensive_exercise_database_v3.2.csv`** - PRODUCTION CSV with 421 exercises (Google Sheets ready, all 20 columns)
+- **`comprehensive_exercise_database_v3.1.1.md`** - v3.1.1 with 377 exercises + 160 skiing sports tags
+- **`comprehensive_exercise_database_v3.1.1.csv`** - v3.1.1 CSV with 377 exercises + 160 skiing sports tags
+- **`comprehensive_exercise_database_v3.1.md`** - v3.1 baseline with 377 exercises (100% Origym, no sport tags)
+- **`comprehensive_exercise_database_v3.1.csv`** - v3.1 CSV (100% Origym, no sport tags)
+- **`comprehensive_exercise_database_v2.md`** - v2 archive with 409 documented exercises (includes duplicates)
+- **`exercise_database_complete_v2.csv`** - v2 CSV export (legacy format)
 - **`Origym.csv`** - Progress tracker for all 270 Origym exercises (270 COMPLETE - 100%)
 - **`PHASE_2_SVG_INTEGRATION_PLAN.md`** - SVG integration approach (replaces Blender 3D)
 - **`session_17_supplementary_24_exercises_research.md`** - Research file for Batch 10 (24 exercises, ~35,000 words, 94+ references)
@@ -95,13 +103,17 @@ This repository contains the foundational systems for creating professional, sci
 - **`batch_5_chest_hamstring_quad_exercises_research.md`** - Research file for Batch 5 (25 exercises, ~28,000 words)
 - **`batch_4_chest_exercises_research.md`** - Research file for Batch 4 (25 exercises, ~17,500 words)
 - **`skiing_exercises_analysis.md`** - Comprehensive skiing biomechanical analysis (25+ sources, 9 categories, training periodization)
-- **`DATABASE_V3.1.1_CHANGELOG.md`** - Version comparison v3.1 → v3.1.1, usage guide, skiing sports tags documentation
+- **`plyometric_hiit_44_exercises_complete_research.md`** - Comprehensive plyometric/HIIT research (~85,000 words, 150+ references)
+- **`DATABASE_V3.2_CHANGELOG.md`** - Version documentation v3.1.1 → v3.2, plyometric/HIIT categorization, usage guide
+- **`DATABASE_V3.2_STATUS.md`** - v3.2 project status, implementation guide, sport-specific recommendations
+- **`DATABASE_V3.1.1_CHANGELOG.md`** - Version comparison v3.1 → v3.1.1, skiing sports tags documentation
 - **`adobe_illustrator_prototype_guide.md`** - Complete A4 card design specifications (v2.0)
 - **`exercise_card_specification.md`** - Card layout, structure, and design system
 
 ### Documentation
 
 - **Session Summaries:**
+  - `021 - session-summary-2026-01-04.md` - Session 21: Database v3.2 Plyometric/HIIT/Circuit Integration (44 new exercises, 150+ references, 421 TOTAL)
   - `020 - session-summary-2026-01-02.md` - Session 20: Sport-Specific Tagging (Skiing Classification - 160 tagged exercises, v3.1.1 PRODUCTION READY)
   - `019 - session-summary-2025-12-16.md` - Session 19: Database v3.1 Production Ready Verification (377 exercises, 100% Origym)
   - `017 - session-summary-2025-12-04-session17.md` - Session 17: Batch 10 Supplementary (24 exercises, 100% ORIGYM COVERAGE - PHASE 1 FINAL)
@@ -359,4 +371,4 @@ For questions about this project or CoachWhitt services:
 
 **CoachWhitt** | Train Like an Athlete. Live Like You.
 
-*Project Status: PHASE 2c READY TO BEGIN (Session 19) | Phase 1 COMPLETE (409 exercises) | Database v3.1 VERIFIED (377 exercises, 20 columns) | Origym Coverage: 100% COMPLETE (270/270) | Video Links: 8.8% coverage (deferred) | Phase 2c Card Design: Immediate (Dec 16, 2025) | Phase 2 Completion Target: January 31, 2026 | Overall Progress: 45% | Last Updated: 2025-12-16*
+*Project Status: PHASE 2c READY TO BEGIN (Session 21) | Phase 1 COMPLETE (421 exercises) | Database v3.2 VERIFIED (421 exercises, 20 columns) | Origym Coverage: 100% COMPLETE (270/270) | Skiing Tags: 160 exercises (42.4%) | Plyometric/HIIT: 44 exercises (10.4%) | Overall Progress: 50% | Last Updated: 2026-01-04*
